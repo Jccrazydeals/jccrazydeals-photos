@@ -1,7 +1,7 @@
-Category,Sub Category,Title,Description,Quantity,Type,Price,Shipping Profile,Offerable,Hazmat,Condition,SKU,Image URL 1,Image URL 2,Image URL 3,Image URL 4,Image URL 5,Image URL 6,Image URL 7,Image URL 8
+Category,Sub Category,Title,Description,Quantity,Type,Price,Shipping Profile,Offerable,Hazmat,Condition,Cost Per Item,SKU,Image URL 1,Image URL 2,Image URL 3,Image URL 4,Image URL 5,Image URL 6,Image URL 7,Image URL 8
 Electronics,Everyday Electronics,Ring Video Doorbell 2nd Gen Bronze 1080p,"Ring Video Doorbell 2nd Generation, bronze. 1080p video, night vision, two-way talk.
 
-SKU JCD-0569",1,Buy It Now,48,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,JCD-0569,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0569_w1.jpg,,,,,,,
+SKU JCD-0569",1,Buy It Now,48,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,,JCD-0569,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0569_w1.jpg,,,,,,,
 Electronics,Everyday Electronics,($180 MSRP) Shokz OpenRun Pro 2 Mini Open-Ear Bone Conduction Bluetooth Sport He,"Shokz OpenRun Pro 2 Mini open-ear bone conduction sport headphones (mini size headband). DualPitch sound with bone conduction plus air conduction bass, up to 12 hours of battery, quick charge, IP55 sweat resistant, Bluetooth 5.3 with multipoint.
 
 - Open-ear design keeps you aware of your surroundings
@@ -10,7 +10,7 @@ Electronics,Everyday Electronics,($180 MSRP) Shokz OpenRun Pro 2 Mini Open-Ear B
 - Mini size headband for smaller heads
 - Bluetooth 5.3, multipoint pairing
 
-SKU JCD-0898",1,Buy It Now,171,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0898,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0898_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0898_s2.jpg,,,,,,
+SKU JCD-0898",1,Buy It Now,171,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0898,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0898_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0898_s2.jpg,,,,,,
 Car Parts,,($200 MSRP) ESCORT M2 Radar-Mounted Smart Dash Cam HD GPS Wi-Fi App Video,"ESCORT radar-mounted smart dash cam (M2). Mounts on your ESCORT radar detector, records crisp HD video with GPS location and speed, and syncs clips to the ESCORT app over Wi-Fi.
 
 - Mounts directly on compatible ESCORT radar detectors
@@ -18,7 +18,7 @@ Car Parts,,($200 MSRP) ESCORT M2 Radar-Mounted Smart Dash Cam HD GPS Wi-Fi App V
 - Wi-Fi app connection to view and save clips
 - Brand new
 
-SKU JCD-1221",1,Buy It Now,143,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1221,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1221_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1221_s2.jpg,,,,,,
+SKU JCD-1221",1,Buy It Now,143,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1221,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1221_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1221_s2.jpg,,,,,,
 Electronics,Everyday Electronics,($140 MSRP) PETLIBRO Granary Smart Camera Automatic Pet Feeder PLAF203 5L 1080P,"PETLIBRO Granary smart camera feeder, model PLAF203. 5L automatic dry food feeder with a 1080p camera, night vision, 2-way audio and app scheduling over Wi-Fi. Pre-owned, works great.
 
 - 5L capacity automatic feeder
@@ -26,7 +26,7 @@ Electronics,Everyday Electronics,($140 MSRP) PETLIBRO Granary Smart Camera Autom
 - 2-way audio and app control
 - Pre-owned
 
-SKU JCD-0651",1,Buy It Now,112,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Used and fully functioning,JCD-0651,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0651_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0651_s2.jpg,,,,,,
+SKU JCD-0651",1,Buy It Now,112,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Used and fully functioning,,JCD-0651,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0651_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0651_s2.jpg,,,,,,
 Electronics,Everyday Electronics,($85 MSRP) JLab JBuds Lux ANC Wireless Over-Ear Headphones Active Noise Cancelli,"JLab JBuds Lux ANC wireless over-ear headphones in Graphite. Active noise cancelling, Be Aware mode, 70+ hours of playtime, Bluetooth multipoint, spatial audio and a folding design.
 
 - Active noise cancelling + Be Aware mode
@@ -34,7 +34,7 @@ Electronics,Everyday Electronics,($85 MSRP) JLab JBuds Lux ANC Wireless Over-Ear
 - Bluetooth multipoint
 - Foldable, comfortable cushions
 
-SKU JCD-0847",1,Buy It Now,81,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0847,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0847_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0847_s2.jpg,,,,,,
+SKU JCD-0847",1,Buy It Now,81,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0847,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0847_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0847_s2.jpg,,,,,,
 Home & Garden,Other Home & Garden,($249 MSRP) Invicta Pro Diver Impact 28001 Men's 50mm Black Gold Chronograph Wat,"Invicta Pro Diver Impact men's watch, model 28001. 50mm case, black dial with gold-tone accents, chronograph, black band. Brand new.
 
 - Model 28001
@@ -42,7 +42,7 @@ Home & Garden,Other Home & Garden,($249 MSRP) Invicta Pro Diver Impact 28001 Men
 - Chronograph
 - Brand new in box
 
-SKU JCD-0817",1,Buy It Now,71,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0817,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0817_s1.jpg,,,,,,,
+SKU JCD-0817",1,Buy It Now,71,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0817,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0817_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($80 MSRP) Fanttik Nex S1 Capsule Deluxe Cordless Electric Screwdriver Set,"Fanttik Nex S1 Capsule Deluxe cordless electric screwdriver set in a compact capsule case with bits. USB-C rechargeable. Brand new.
 
 - Compact capsule case with bits
@@ -50,7 +50,7 @@ Electronics,Everyday Electronics,($80 MSRP) Fanttik Nex S1 Capsule Deluxe Cordle
 - Great for electronics, furniture and home projects
 - Brand new
 
-SKU JCD-0694",1,Buy It Now,67,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0694,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0694_s1.jpg,,,,,,,
+SKU JCD-0694",1,Buy It Now,67,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0694,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0694_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($60 MSRP) Aduro Surge Multi Charging Station 6 Outlets 4 USB Wall Surge Protect,"Aduro Surge multi charging station wall tap: 6 AC outlets plus 4 USB ports with a phone shelf on top. Surge protection. We have 2 (1 white, 1 black) - tell us which color you want.
 
 - 6 AC outlets + 4 USB ports
@@ -58,7 +58,7 @@ Electronics,Everyday Electronics,($60 MSRP) Aduro Surge Multi Charging Station 6
 - Surge protection
 - 2 available: white or black
 
-SKU JCD-1014",2,Buy It Now,57,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1014,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1014_s1.jpg,,,,,,,
+SKU JCD-1014",2,Buy It Now,57,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1014,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1014_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($57 MSRP) FIFINE AmpliGame AM8 USB XLR Dynamic Microphone RGB Gaming Streaming ,"FIFINE AmpliGame AM8 dynamic microphone with both USB and XLR outputs. RGB light, tap-to-mute, headphone jack and gain knob. Great for gaming, streaming and podcasts.
 
 - USB + XLR outputs
@@ -66,7 +66,7 @@ Electronics,Everyday Electronics,($57 MSRP) FIFINE AmpliGame AM8 USB XLR Dynamic
 - Headphone monitoring jack
 - Brand new
 
-SKU JCD-0776",1,Buy It Now,55,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0776,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0776_s1.jpg,,,,,,,
+SKU JCD-0776",1,Buy It Now,55,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0776,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0776_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($53 MSRP) FIFINE T669 USB Condenser Microphone Kit with Boom Arm Pop Filter Pod,"FIFINE T669 USB studio condenser microphone kit with boom arm, shock mount and pop filter. Plug-and-play for podcasting, recording and streaming.
 
 - USB plug-and-play condenser mic
@@ -74,7 +74,7 @@ Electronics,Everyday Electronics,($53 MSRP) FIFINE T669 USB Condenser Microphone
 - Great for podcasts, streaming and voice-over
 - Brand new
 
-SKU JCD-0713",1,Buy It Now,51,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0713,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0713_s1.jpg,,,,,,,
+SKU JCD-0713",1,Buy It Now,51,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0713,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0713_s1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Invicta Specialty Mach Gala 69816 Men's 48mm Gold Tone Chronograph Watch,"Invicta Specialty Mach Gala men's watch, model 69816. 48mm gold-tone case and bracelet, chronograph. Brand new.
 
 - Model 69816
@@ -82,7 +82,7 @@ Home & Garden,Other Home & Garden,Invicta Specialty Mach Gala 69816 Men's 48mm G
 - Chronograph
 - Brand new in box
 
-SKU JCD-0819",1,Buy It Now,124,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0819,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0819_s1.jpg,,,,,,,
+SKU JCD-0819",1,Buy It Now,124,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0819,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0819_s1.jpg,,,,,,,
 Electronics,Headphones and Speakers,($140 MSRP) NEEWER CM28 PRO Wireless Lavalier Microphone System with Charging Ca,"NEEWER CM28 PRO wireless lavalier microphone system with 2 transmitters, receiver and charging case. Works with cameras, phones and computers.
 
 - 2 wireless lav mics + receiver
@@ -90,7 +90,7 @@ Electronics,Headphones and Speakers,($140 MSRP) NEEWER CM28 PRO Wireless Lavalie
 - For cameras, phones and computers
 - Brand new
 
-SKU JCD-1113",1,Buy It Now,133,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1113,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1113_s1.jpg,,,,,,,
+SKU JCD-1113",1,Buy It Now,133,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1113,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1113_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($96 MSRP) tomtoc 40L Travel Backpack TSA Friendly Flight Approved Carry-On Lapt,"tomtoc 40L travel backpack. TSA-friendly, flight-approved carry-on size with a laptop compartment and clamshell opening. We have 2.
 
 - 40L carry-on size
@@ -98,7 +98,7 @@ Electronics,Everyday Electronics,($96 MSRP) tomtoc 40L Travel Backpack TSA Frien
 - Clamshell packing
 - 2 available
 
-SKU JCD-0681",2,Buy It Now,92,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0681,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0681_s1.jpg,,,,,,,
+SKU JCD-0681",2,Buy It Now,92,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0681,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0681_s1.jpg,,,,,,,
 Video Games,Consoles & Accessories,($80 MSRP) AULA F75 75% Wireless Mechanical Gaming Keyboard Hot-Swap Pre-Lubed G,"AULA F75 75% wireless mechanical keyboard. Hot-swappable, pre-lubed switches, gasket mount, tri-mode (2.4GHz / Bluetooth / USB-C wired).
 
 - 75% layout with knob
@@ -106,7 +106,7 @@ Video Games,Consoles & Accessories,($80 MSRP) AULA F75 75% Wireless Mechanical G
 - Tri-mode: 2.4GHz, Bluetooth, wired
 - Brand new
 
-SKU JCD-1111",1,Buy It Now,79,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1111,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1111_s1.jpg,,,,,,,
+SKU JCD-1111",1,Buy It Now,79,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1111,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1111_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,4-Slice Touch Screen Toaster Stainless Steel Digital Bagel Defrost Reheat,"4-slice touch-screen toaster in stainless steel with digital controls, extra-wide slots and bagel, defrost and reheat settings.
 
 - 4 extra-wide slots
@@ -114,7 +114,7 @@ Electronics,Everyday Electronics,4-Slice Touch Screen Toaster Stainless Steel Di
 - Bagel, defrost and reheat
 - Brand new
 
-SKU JCD-0682",1,Buy It Now,76,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0682,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0682_s1.jpg,,,,,,,
+SKU JCD-0682",1,Buy It Now,76,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0682,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0682_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,60L Expandable Vacuum Compression Travel Backpack with Air Pump,"60L expandable vacuum-compression travel backpack with a built-in air pump to shrink clothes and fit more for long trips.
 
 - Expands to 60L
@@ -122,7 +122,7 @@ Electronics,Everyday Electronics,60L Expandable Vacuum Compression Travel Backpa
 - Great for long trips
 - Brand new
 
-SKU JCD-0695",1,Buy It Now,73,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0695,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0695_s1.jpg,,,,,,,
+SKU JCD-0695",1,Buy It Now,73,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0695,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0695_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,P70 HD Industrial Endoscope Inspection Camera IP67 Waterproof,"P70 HD industrial endoscope inspection camera with screen, IP67 waterproof probe. For pipes, engines, walls and car work. We have 2.
 
 - HD camera with built-in screen
@@ -130,14 +130,14 @@ Electronics,Everyday Electronics,P70 HD Industrial Endoscope Inspection Camera I
 - For pipes, engines and walls
 - 2 available
 
-SKU JCD-0710",2,Buy It Now,67,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0710,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0710_s1.jpg,,,,,,,
+SKU JCD-0710",2,Buy It Now,67,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0710,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0710_s1.jpg,,,,,,,
 Beauty,Other Beauty,5-in-1 Hot Air Brush Hair Dryer Styler Set with Attachments,"5-in-1 hot air brush hair dryer set with styling attachments for drying, curling, smoothing and volume.
 
 - 5 styling attachments
 - Dry, curl, smooth and volumize
 - Brand new
 
-SKU JCD-1109",1,Buy It Now,67,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1109,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1109_s1.jpg,,,,,,,
+SKU JCD-1109",1,Buy It Now,67,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1109,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1109_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,Solar Bug Zapper 13W Solar Panel 3500V Outdoor Mosquito Killer 3000 Sq Ft,"Solar bug zapper with a 13W solar panel, 3500V grid, covers up to 3,000 sq ft. Charges by sun, no outlet needed.
 
 - Solar powered, no outlet needed
@@ -145,7 +145,7 @@ Electronics,Everyday Electronics,Solar Bug Zapper 13W Solar Panel 3500V Outdoor 
 - Covers up to 3,000 sq ft
 - Brand new
 
-SKU JCD-0714",1,Buy It Now,62,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0714,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0714_s1.jpg,,,,,,,
+SKU JCD-0714",1,Buy It Now,62,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0714,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0714_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($65 MSRP) Keychron K0 Max Wireless Low Profile Number Pad QMK VIA Hot-Swap,"Keychron K0 Max wireless low-profile number pad. QMK/VIA programmable, hot-swappable, Bluetooth + 2.4GHz + wired.
 
 - QMK/VIA programmable
@@ -153,7 +153,7 @@ Electronics,Everyday Electronics,($65 MSRP) Keychron K0 Max Wireless Low Profile
 - Bluetooth, 2.4GHz and wired
 - Brand new
 
-SKU JCD-0719",1,Buy It Now,62,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0719,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0719_s1.jpg,,,,,,,
+SKU JCD-0719",1,Buy It Now,62,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0719,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0719_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,6-in-1 Magnetic Wallet Wireless Power Bank 5000mAh Find My Compatible,"6-in-1 magnetic wallet wireless power bank, 5000mAh, works with Apple Find My. Magnetic wireless charging plus card holder. We have 5.
 
 - 5000mAh magnetic wireless charging
@@ -161,7 +161,7 @@ Electronics,Everyday Electronics,6-in-1 Magnetic Wallet Wireless Power Bank 5000
 - Card wallet built in
 - 5 available
 
-SKU JCD-1099",5,Buy It Now,57,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1099,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1099_s1.jpg,,,,,,,
+SKU JCD-1099",5,Buy It Now,57,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1099,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1099_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($450 MSRP) Arlo Essential Spotlight Wire-Free Security Camera 4-Pack VMC2430,"Arlo Essential Spotlight wire-free security camera 4-pack (VMC2430), white. 1080p HD video, built-in spotlight, color night vision, 2-way audio and a siren. Connects straight to Wi-Fi with no hub needed. Rechargeable battery, weather-resistant for indoor or outdoor use. Works with Alexa, Google Assistant and Apple HomeKit.
 
 - 4 cameras + 4 wall mounts + charging cable
@@ -171,7 +171,7 @@ Electronics,Everyday Electronics,($450 MSRP) Arlo Essential Spotlight Wire-Free 
 - Weather-resistant, indoor/outdoor
 - We have 2 sets
 
-SKU JCD-1095",2,Buy It Now,428,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-1095,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1095_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1095_s2.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1095_s3.jpg,,,,,
+SKU JCD-1095",2,Buy It Now,428,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-1095,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1095_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1095_s2.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1095_s3.jpg,,,,,
 Electronics,Everyday Electronics,"($300 MSRP) Samsung Galaxy Tab A11+ 11"" 128GB Wi-Fi Tablet Gray SM-X230","Samsung Galaxy Tab A11+ tablet in Gray, 128GB storage with 6GB memory, Wi-Fi model. 11-inch 90Hz display, Dolby Atmos quad speakers, 7,040 mAh battery with 25W fast charging, microSD slot (up to 2TB) and a 3.5 mm headphone jack. Brand new.
 
 - 11-inch 1920 x 1200 display, 90Hz
@@ -180,7 +180,7 @@ Electronics,Everyday Electronics,"($300 MSRP) Samsung Galaxy Tab A11+ 11"" 128GB
 - 7,040 mAh battery, 25W fast charging
 - Wi-Fi model, Gray
 
-SKU JCD-1104",1,Buy It Now,285,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1104,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1104_s1.jpg,,,,,,,
+SKU JCD-1104",1,Buy It Now,285,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1104,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1104_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($130 MSRP) Razer Seiren V3 Chroma RGB USB Microphone Streaming Podcast,"Razer Seiren V3 Chroma USB microphone with Razer Chroma RGB lighting. Supercardioid condenser capsule for clear voice, tap-to-mute sensor, built-in shock absorber, headphone jack and gain dial. Plug and play for PC and Mac. Brand new.
 
 - Supercardioid condenser for clear voice
@@ -189,7 +189,7 @@ Electronics,Everyday Electronics,($130 MSRP) Razer Seiren V3 Chroma RGB USB Micr
 - Built-in shock absorber and 3.5 mm headphone jack
 - USB plug and play
 
-SKU JCD-0897",1,Buy It Now,124,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0897,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0897_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0897_s2.jpg,,,,,,
+SKU JCD-0897",1,Buy It Now,124,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0897,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0897_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0897_s2.jpg,,,,,,
 Electronics,Everyday Electronics,($130 MSRP) Razer BlackWidow V4 X Mechanical Gaming Keyboard Chroma RGB,"Razer BlackWidow V4 X full-size wired mechanical gaming keyboard. Razer mechanical switches, Chroma RGB lighting, 6 dedicated macro keys, multi-function roller and media keys, doubleshot ABS keycaps. Brand new.
 
 - Razer mechanical switches
@@ -198,7 +198,7 @@ Electronics,Everyday Electronics,($130 MSRP) Razer BlackWidow V4 X Mechanical Ga
 - Multi-function roller and media keys
 - Full size, wired USB
 
-SKU JCD-0908",1,Buy It Now,124,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0908,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0908_s1.jpg,,,,,,,
+SKU JCD-0908",1,Buy It Now,124,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0908,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0908_s1.jpg,,,,,,,
 Electronics,Tools,($159 MSRP) Milwaukee 2526-20 M12 FUEL Oscillating Multi-Tool Tool Only,"Milwaukee M12 FUEL oscillating multi-tool, model 2526-20, tool only (no battery or charger). Brushless POWERSTATE motor, 10,000 to 20,000 OPM with a 12-setting speed dial, tool-free blade change, LED light and low vibration. Fits all M12 batteries.
 
 - Model 2526-20, tool only
@@ -207,7 +207,7 @@ Electronics,Tools,($159 MSRP) Milwaukee 2526-20 M12 FUEL Oscillating Multi-Tool 
 - Tool-free blade change
 - Works with all M12 batteries
 
-SKU JCD-0487",1,Buy It Now,152,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0487,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0487_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0487_s2.jpg,,,,,,
+SKU JCD-0487",1,Buy It Now,152,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0487,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0487_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0487_s2.jpg,,,,,,
 Electronics,Everyday Electronics,($100 MSRP) Fitbit Inspire 3 Health & Fitness Tracker Midnight Zen Black,"Fitbit Inspire 3 health and fitness tracker in black. Color touchscreen, 24/7 heart rate, sleep tracking, stress management, SpO2, activity and exercise tracking, phone notifications and up to 10 days of battery. Water resistant to 50 m. Brand new.
 
 - 24/7 heart rate and sleep tracking
@@ -216,7 +216,7 @@ Electronics,Everyday Electronics,($100 MSRP) Fitbit Inspire 3 Health & Fitness T
 - Water resistant to 50 m
 - Phone notifications
 
-SKU JCD-1214",1,Buy It Now,95,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1214,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1214_s1.jpg,,,,,,,
+SKU JCD-1214",1,Buy It Now,95,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1214,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1214_s1.jpg,,,,,,,
 Video Games,Consoles & Accessories,($80 MSRP) Razer Kraken V4 X Wired Gaming Headset Chroma RGB USB Black,"Razer Kraken V4 X wired USB gaming headset in black. Razer TriForce 40mm drivers, 7.1 surround sound, Razer Chroma RGB lighting, cardioid microphone with flexible boom, plush cushions. Brand new.
 
 - TriForce 40mm drivers
@@ -225,7 +225,7 @@ Video Games,Consoles & Accessories,($80 MSRP) Razer Kraken V4 X Wired Gaming Hea
 - Cardioid boom microphone
 - Wired USB
 
-SKU JCD-1145",1,Buy It Now,76,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1145,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1145_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1145_s2.jpg,,,,,,
+SKU JCD-1145",1,Buy It Now,76,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1145,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1145_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1145_s2.jpg,,,,,,
 Electronics,Everyday Electronics,($80 MSRP) Amazon Echo Dot 5th Gen Smart Speaker with Alexa Charcoal,"Amazon Echo Dot (5th Gen) smart speaker with Alexa in Charcoal. Bigger, clearer sound than earlier Dots, built-in temperature sensor, tap gestures, smart home control, music and timers. Brand new. We have 2.
 
 - Alexa built in
@@ -234,7 +234,7 @@ Electronics,Everyday Electronics,($80 MSRP) Amazon Echo Dot 5th Gen Smart Speake
 - Built-in temperature sensor
 - 2 available
 
-SKU JCD-0768",2,Buy It Now,76,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0768,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0768_s1.jpg,,,,,,,
+SKU JCD-0768",2,Buy It Now,76,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0768,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0768_s1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,($100 MSRP) Calvin Klein CK19539S 410 Matte Navy Square Sport Sunglasses Men,"Calvin Klein lightweight square sport sunglasses, model CK19539S, color 410 Matte Navy with blue lenses. 100% UV protection. Brand new.
 
 - Model CK19539S-410
@@ -242,14 +242,14 @@ Home & Garden,Other Home & Garden,($100 MSRP) Calvin Klein CK19539S 410 Matte Na
 - 100% UV protection
 - Lightweight square sport shape
 
-SKU JCD-0654",1,Buy It Now,95,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0654,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0654_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0654_s2.jpg,,,,,,
+SKU JCD-0654",1,Buy It Now,95,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0654,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0654_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0654_s2.jpg,,,,,,
 Home & Garden,Other Home & Garden,Outdoor Waterproof RGB LED Strip Light Kit Color Changing Patio,"Outdoor waterproof RGB LED strip light kit. Color-changing lights for patios, decks, eaves and backyards. Brand new.
 
 - Color-changing RGB
 - Waterproof for outdoor use
 - Patio, deck, eaves, backyard
 
-SKU JCD-0128",1,Buy It Now,67,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0128,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0128_j1.jpg,,,,,,,
+SKU JCD-0128",1,Buy It Now,67,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0128,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0128_j1.jpg,,,,,,,
 Electronics,Tools,ZeroDark Tactical LED Light Set Camping Car Emergency,"ZeroDark tactical light set, brand new in package. Bright LED lights for camping, the car, the toolbox or power outages.
 
 - Bright LED tactical lights
@@ -257,20 +257,20 @@ Electronics,Tools,ZeroDark Tactical LED Light Set Camping Car Emergency,"ZeroDar
 - Brand new in package
 - We have 2 sets
 
-SKU JC-ITEM-559ACDEB9E51",2,Buy It Now,16,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JC-ITEM-559ACDEB9E51,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JC-ITEM-559ACDEB9E51_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JC-ITEM-559ACDEB9E51_j2.jpg,,,,,,
+SKU JC-ITEM-559ACDEB9E51",2,Buy It Now,16,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JC-ITEM-559ACDEB9E51,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JC-ITEM-559ACDEB9E51_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JC-ITEM-559ACDEB9E51_j2.jpg,,,,,,
 Home & Garden,Other Home & Garden,Intelligent Induction LED Lamp Motion Touch Sensor Night Light,"Intelligent induction lamp — motion/touch sensing LED light that turns on by itself when needed. Great for nightstands, closets, hallways and stairs. Brand new.
 
 - Senses you and lights up
 - Nightstand, closet, hallway, stairs
 
-SKU JCD-0322",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0322,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0322_j1.jpg,,,,,,,
+SKU JCD-0322",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0322,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0322_j1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,($40 MSRP) Space & Home Dusk to Dawn LED Cube Night Lights 4 Pack Plug In,"Space & Home dusk-to-dawn LED cube night lights, 4-pack. Plug in and they turn on at dark and off at daylight automatically. Energy-saving LED. Brand new.
 
 - 4 plug-in night lights
 - Auto on at dark, off at daylight
 - Energy-saving LED
 
-SKU JCD-0497",1,Buy It Now,11,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0497,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0497_j1.jpg,,,,,,,
+SKU JCD-0497",1,Buy It Now,11,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0497,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0497_j1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,($30 MSRP) Adurance 32 ft Retractable Rechargeable String Light White Lantern,"Adurance 32 ft retractable rechargeable string light, white. Pull out the lights, hang them up, and reel them back in when you're done. The reel doubles as a lantern. Brand new.
 
 - 32 ft of lights
@@ -278,21 +278,21 @@ Home & Garden,Other Home & Garden,($30 MSRP) Adurance 32 ft Retractable Recharge
 - Reel works as a lantern
 - Rechargeable
 
-SKU JCD-0499",1,Buy It Now,10,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0499,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0499_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0499_j1.jpg,,,,,,
+SKU JCD-0499",1,Buy It Now,10,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0499,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0499_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0499_j1.jpg,,,,,,
 Home & Garden,Other Home & Garden,($40 MSRP) Bright Basics Motion Activated Toilet Bowl Night Light Color,"Bright Basics motion-activated toilet bowl night light. Turns on when you walk in, lights the bowl in your choice of colors, flexible arm fits most toilets. No more bright light at 3 AM. Brand new.
 
 - Motion activated
 - Pick your color
 - Flexible arm fits most toilets
 
-SKU JCD-0551",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0551,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0551_j1.jpg,,,,,,,
+SKU JCD-0551",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0551,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0551_j1.jpg,,,,,,,
 Electronics,Cameras & Photography,4K Ultra HD Pocket Digital Camera 44MP 16X Zoom Pink,"4K Ultra HD pocket digital camera, 44MP, 16X zoom, pink. Brand new.
 
 - 4K video, 44MP photos
 - 16X digital zoom
 - Pocket size
 
-SKU JCD-0849",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0849,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0849_j1.jpg,,,,,,,
+SKU JCD-0849",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0849,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0849_j1.jpg,,,,,,,
 Electronics,Cameras & Photography,LK-007 4K 48MP Digital Camera Flip Screen 16X Zoom Vlogging White,"LK-007 4K 48MP digital camera with flip screen and 16X digital zoom, white. Great for vlogging, travel and selfies. Brand new.
 
 - 4K video, 48MP photos
@@ -300,7 +300,7 @@ Electronics,Cameras & Photography,LK-007 4K 48MP Digital Camera Flip Screen 16X 
 - 16X digital zoom
 - We have 2
 
-SKU JCD-0871",2,Buy It Now,70,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0871,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0871_j1.jpg,,,,,,,
+SKU JCD-0871",2,Buy It Now,70,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0871,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0871_j1.jpg,,,,,,,
 Video Games,Consoles & Accessories,E99 Foldable Drone with Camera Beginner Quadcopter,"E99 foldable drone with camera. Brand new.
 
 - Folds up small
@@ -308,7 +308,7 @@ Video Games,Consoles & Accessories,E99 Foldable Drone with Camera Beginner Quadc
 - Great for beginners and kids
 - We have 2
 
-SKU JCD-0873",2,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0873,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0873_j1.jpg,,,,,,,
+SKU JCD-0873",2,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0873,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0873_j1.jpg,,,,,,,
 Electronics,Cameras & Photography,"heyday 10"" Ring Light with Tripod and Bluetooth Remote","Ring light with tripod stand for photos, video and live streaming. Brand new.
 
 - 10-inch ring light
@@ -316,7 +316,7 @@ Electronics,Cameras & Photography,"heyday 10"" Ring Light with Tripod and Blueto
 - Bluetooth remote
 - We have 3
 
-SKU JCD-0888",3,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0888,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0888_j1.jpg,,,,,,,
+SKU JCD-0888",3,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0888,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0888_j1.jpg,,,,,,,
 Video Games,Consoles & Accessories,E88 Foldable Drone with Camera Beginner Quadcopter,"E88 foldable drone. Brand new.
 
 - Folds up small
@@ -324,7 +324,7 @@ Video Games,Consoles & Accessories,E88 Foldable Drone with Camera Beginner Quadc
 - Great for beginners and kids
 - We have 3
 
-SKU JCD-0963",3,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0963,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0963_j1.jpg,,,,,,,
+SKU JCD-0963",3,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0963,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0963_j1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,($30 MSRP) Adurance 32 ft Retractable String Light Rechargeable Patio Camping,"Adurance retractable string light, 32 ft. Brand new.
 
 - 32 ft of lights
@@ -332,7 +332,7 @@ Home & Garden,Other Home & Garden,($30 MSRP) Adurance 32 ft Retractable String L
 - Patio, camping, parties
 - We have 5
 
-SKU JCD-0987",5,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0987,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0987_j1.jpg,,,,,,,
+SKU JCD-0987",5,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0987,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0987_j1.jpg,,,,,,,
 Electronics,Cameras & Photography,Summer Infant Baby Touch 02000 Video Monitor 2 Cameras Touchscreen,"Summer Infant Baby Touch digital color video monitor (02000), pre-owned and tested working: 3.5 in. touchscreen parent unit with stand, 2 pan/tilt cameras, rechargeable battery, carry bag and instruction manual. About 10 years old; shows light normal wear. No retail box.
 
 - 3.5 in touchscreen parent unit
@@ -340,7 +340,7 @@ Electronics,Cameras & Photography,Summer Infant Baby Touch 02000 Video Monitor 2
 - Rechargeable, carry bag + manual
 - Pre-owned, tested working
 
-SKU JCD-1237",1,Buy It Now,50,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,JCD-1237,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1237_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1237_j2.jpg,,,,,,
+SKU JCD-1237",1,Buy It Now,50,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,,JCD-1237,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1237_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1237_j2.jpg,,,,,,
 Electronics,Cameras & Photography,"Sports Cam 1080p Action Camera Waterproof 30m 2"" Screen Mounts","Full HD 1080p action camera with 2.0 in. screen, 140° wide-angle lens, waterproof case to 30 m, helmet/handlebar mounts and clips. Micro SD card not included.
 
 - Full HD 1080p
@@ -349,21 +349,21 @@ Electronics,Cameras & Photography,"Sports Cam 1080p Action Camera Waterproof 30m
 - Helmet/bike mounts included
 - Micro SD card not included
 
-SKU JCD-1238",1,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1238,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1238_j1.jpg,,,,,,,
+SKU JCD-1238",1,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1238,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1238_j1.jpg,,,,,,,
 Electronics,Cameras & Photography,T16 Hidden Camera Detector RF Bug GPS Tracker Finder 3 Antennas,"T16 intelligent detector — handheld RF signal scanner with 3 antennas for finding hidden cameras, GPS trackers and listening devices in hotels, Airbnbs, cars and offices. Brand new in box.
 
 - Finds hidden cameras, GPS trackers, bugs
 - 3 antennas
 - Hotels, Airbnbs, cars, offices
 
-SKU JCD-1240",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1240,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1240_j1.jpg,,,,,,,
+SKU JCD-1240",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1240,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1240_j1.jpg,,,,,,,
 Electronics,Cameras & Photography,TC1 Hidden Camera Detector Keychain Infrared Lens Finder Black,"TC1 pocket hidden-camera detector keychain, black. Look through the red lens with the infrared LEDs on and hidden camera lenses glow. Rechargeable, USB cable included. Brand new.
 
 - Infrared LEDs + red viewing lens
 - Keychain size
 - USB cable included
 
-SKU JCD-1241",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1241,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1241_j1.jpg,,,,,,,
+SKU JCD-1241",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1241,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1241_j1.jpg,,,,,,,
 Electronics,Cameras & Photography,($30 MSRP) SwitchBot Bot Smart Switch Button Pusher Bluetooth White,"SwitchBot Bot smart button pusher. Sticks next to almost any rocker switch or button and presses it for you from your phone, on a schedule, or by voice with a SwitchBot Hub (sold separately). Battery powered, no wiring. Brand new.
 
 - Press or switch mode
@@ -371,7 +371,7 @@ Electronics,Cameras & Photography,($30 MSRP) SwitchBot Bot Smart Switch Button P
 - App control over Bluetooth
 - Works with Alexa/Google with SwitchBot Hub
 
-SKU JCD-1012",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1012,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1012_s1.jpg,,,,,,,
+SKU JCD-1012",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1012,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1012_s1.jpg,,,,,,,
 Electronics,Headphones and Speakers,($20 MSRP) JLab JBuddies Studio 2 Kids Wired Headphones Gray Blue Volume Safe,"JLab JBuddies Studio 2 on-ear kids wired headphones, gray/blue. Volume-safe listening below 85 dB, Cloud Foam ear cushions, adjustable foldable design, built-in mic. Ages 6+. Brand new.
 
 - Volume limited to 85 dB
@@ -379,7 +379,7 @@ Electronics,Headphones and Speakers,($20 MSRP) JLab JBuddies Studio 2 Kids Wired
 - Foldable and adjustable
 - 3.5 mm jack with mic
 
-SKU JCD-1032",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1032,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1032_s1.jpg,,,,,,,
+SKU JCD-1032",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1032,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1032_s1.jpg,,,,,,,
 Video Games,Consoles & Accessories,M15 Pro 4K Wireless Retro Game Stick 20000+ Games 2 Controllers,"M15 Pro 4K HDMI game stick with 20,000+ built-in retro games and 2 wireless controllers. Plug into any TV and play. Brand new.
 
 - Plugs into any TV (HDMI)
@@ -387,14 +387,14 @@ Video Games,Consoles & Accessories,M15 Pro 4K Wireless Retro Game Stick 20000+ G
 - 2 wireless controllers included
 - We have 2
 
-SKU JCD-0827",2,Buy It Now,27,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0827,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0827_s1.jpg,,,,,,,
+SKU JCD-0827",2,Buy It Now,27,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0827,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0827_s1.jpg,,,,,,,
 Electronics,Headphones and Speakers,KVIDIO Bluetooth Over Ear Wireless Headphones with Microphone,"KVIDIO Bluetooth over-ear wireless headphones with microphone, foldable and lightweight, long battery life. Brand new.
 
 - Bluetooth wireless
 - Built-in microphone
 - Foldable over-ear design
 
-SKU JCD-0877",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0877,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0877_s1.jpg,,,,,,,
+SKU JCD-0877",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0877,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0877_s1.jpg,,,,,,,
 Video Games,Consoles & Accessories,($100 MSRP) Backbone One Xbox Edition USB-C Mobile Gaming Controller iPhone Andr,"Backbone One Xbox Edition mobile gaming controller with USB-C. Turns your phone into a handheld console: play Xbox Cloud Gaming, Remote Play, and mobile games. Pass-through charging. Brand new.
 
 - USB-C, iPhone 15+ and Android
@@ -402,27 +402,27 @@ Video Games,Consoles & Accessories,($100 MSRP) Backbone One Xbox Edition USB-C M
 - Pass-through charging
 - Brand new in box
 
-SKU JCD-1001",1,Buy It Now,95,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1001,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1001_s1.jpg,,,,,,,
+SKU JCD-1001",1,Buy It Now,95,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1001,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1001_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,($19 MSRP) Apple USB-C to USB Adapter Genuine,"Genuine Apple USB-C to USB adapter. Connect USB-A devices like flash drives and cameras to your USB-C Mac, iPad or iPhone. Brand new.
 
 - Genuine Apple
 - USB-C male to USB-A female
 
-SKU JCD-1013",1,Buy It Now,16,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1013,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1013_s1.jpg,,,,,,,
+SKU JCD-1013",1,Buy It Now,16,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1013,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1013_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,getpals 3 in 1 Wireless Charging Station iPhone Apple Watch AirPods,"getpals 3-in-1 wireless charging station for iPhone, Apple Watch and AirPods. Charge all three at once on one stand. Brand new.
 
 - Phone + watch + earbuds at once
 - Wall adapter included
 - We have 3
 
-SKU JCD-1018",3,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1018,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1018_s1.jpg,,,,,,,
+SKU JCD-1018",3,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1018,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1018_s1.jpg,,,,,,,
 Video Games,Consoles & Accessories,SNPURDIRI X68 68 Key RGB Mini Wired Gaming Keyboard,"SNPURDIRI X68 compact 68-key wired gaming keyboard with RGB backlighting. Small footprint, full arrow keys. Brand new.
 
 - 68 keys, compact layout
 - RGB backlight
 - USB wired
 
-SKU JCD-1035",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1035,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1035_s1.jpg,,,,,,,
+SKU JCD-1035",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1035,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1035_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,AdamStar Rechargeable LED Magnetic Work Light 2-Pack COB 7 Modes Hook,"AdamStar rechargeable LED magnetic work light, 2-pack. Square light with one big ultra-bright COB light in the middle, 7 light modes, rotates 270 degrees, magnetic base sticks to your car or toolbox, plus a hanging hook. USB rechargeable. Brand new.
 
 - 2 lights in the box
@@ -431,731 +431,731 @@ Electronics,Everyday Electronics,AdamStar Rechargeable LED Magnetic Work Light 2
 - Rotates 270 degrees
 - USB rechargeable
 
-SKU JCD-0828",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0828,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0828_j1.jpg,,,,,,,
+SKU JCD-0828",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0828,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0828_j1.jpg,,,,,,,
 Video Games,Consoles & Accessories,Ninja Gaiden II Xbox 360 Complete with Case and Disc,"Ninja Gaiden II for Xbox 360. Pre-owned, comes with the original case and disc. Stock photo of the cover shown.
 
 - Xbox 360 game
 - Case and disc included
 - Pre-owned
 
-SKU JCD-1034",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,JCD-1034,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1034_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1034_s1.jpg,,,,,,
+SKU JCD-1034",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,,JCD-1034,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1034_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1034_s1.jpg,,,,,,
 Electronics,Everyday Electronics,200W PD QC3.0 USB-C Fast Wall Charger GaN,"200W PD fast wall charger with Quick Charge 3.0. Charges phones, tablets and laptops. New in box.
 
 - 200W PD fast charging
 - QC 3.0 support
 - Phones, tablets, laptops
 
-SKU JCD-0303",6,Buy It Now,63,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0303,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0303_j1.jpg,,,,,,,
+SKU JCD-0303",6,Buy It Now,63,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0303,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0303_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,Brookstone Sound Solace Noise Isolating Wireless Headphones BSBTH29BK,"Brookstone Sound Solace noise isolating wireless over-ear headphones, model BSBTH29BK. New in box.
 
 - Bluetooth wireless
 - Noise isolating
 - Rechargeable
 
-SKU JCD-0736",3,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0736,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0736_j1.jpg,,,,,,,
+SKU JCD-0736",3,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0736,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0736_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,Case Logic 10W Qi Wireless Charging Pad Blue,"Case Logic universal 10W Qi wireless charging pad in blue. Works with Apple and Android phones that support wireless charging. New in box.
 
 - 10W fast wireless charging
 - Apple and Android
 - Glows blue while charging
 
-SKU JCD-0789",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0789,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0789_j1.jpg,,,,,,,
+SKU JCD-0789",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0789,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0789_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,($30 MSRP) RORRY Portable Charger 10000mAh with Wall Plug and Built-in Cables Gr,"RORRY 10,000mAh portable charger with fold-out wall plug and built-in cables, green. New in box.
 
 - 10,000mAh power bank
 - Built-in wall plug
 - Built-in cables
 
-SKU JCD-0825",5,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0825,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0825_j1.jpg,,,,,,,
+SKU JCD-0825",5,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0825,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0825_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,NYKO Deluxe Camo Gaming Headset,"NYKO Deluxe Camo gaming headset. New, sealed in package.
 
 - Camo gaming headset
 - Sealed package
 
-SKU JCD-0852",1,Buy It Now,24,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0852,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0852_j1.jpg,,,,,,,
+SKU JCD-0852",1,Buy It Now,24,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0852,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0852_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,25 ft Indoor Outdoor Waterproof Extension Cord 3 Prong,"25 ft indoor/outdoor waterproof 3-prong extension cord. New in box.
 
 - 25 feet long
 - Indoor or outdoor
 - 3 prong grounded
 
-SKU JCD-0866",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0866,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0866_j1.jpg,,,,,,,
+SKU JCD-0866",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0866,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0866_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,Btootos A90 Pro True Wireless Earbuds Bluetooth 5.3 LED Display Case,"Btootos A90 Pro true wireless earbuds with LED display charging case. New in box.
 
 - Bluetooth 5.3
 - LED battery display case
 - Rechargeable
 
-SKU JCD-0879",4,Buy It Now,22,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0879,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0879_j1.jpg,,,,,,,
+SKU JCD-0879",4,Buy It Now,22,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0879,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0879_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,($30 MSRP) heyday 10 ft USB-C to iPhone Charging Cables 2 Pack Orange Navy,"heyday 2-pack 10 ft fast charging cables, USB-C to iPhone connector, Made for iPhone and iPad. Orange and navy. New in package.
 
 - 2 cables, 10 ft each
 - USB-C to iPhone connector
 - Made for iPhone / iPad
 
-SKU JCD-0893",4,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0893,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0893_j1.jpg,,,,,,,
+SKU JCD-0893",4,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0893,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0893_j1.jpg,,,,,,,
 Video Games,Consoles & Accessories,Wireless Controller for Nintendo Switch Teal Blue,"Wireless controller for Nintendo Switch, teal/blue. New in box.
 
 - Wireless
 - For Nintendo Switch
 
-SKU JCD-0951",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0951,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0951_j1.jpg,,,,,,,
+SKU JCD-0951",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0951,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0951_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,Mini Retro Game Console 620 Built-in Classic Games 2 Controllers,"Mini retro game console with 620 built-in classic games and 2 controllers. Plugs into your TV. New in box.
 
 - 620 built-in games
 - 2 controllers
 - Plugs into TV
 
-SKU JCD-0961",3,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0961,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0961_j1.jpg,,,,,,,
+SKU JCD-0961",3,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0961,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0961_j1.jpg,,,,,,,
 Electronics,Headphones and Speakers,($30 MSRP) heyday Artist Series True Wireless Earbuds Red,"heyday Artist Series true wireless earbuds in red with decorated charging case, up to 20 hours with case. New in box.
 
 - Up to 20 hours with case
 - Bluetooth
 - Artist Series design
 
-SKU JCD-1002",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1002,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1002_j1.jpg,,,,,,,
+SKU JCD-1002",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1002,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1002_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,240W 4-in-1 Fast Charging Data Cable USB-C and iPhone,"240W 4-in-1 fast charging data cable with USB-C and iPhone ends. New in package.
 
 - 240W fast charging
 - 4-in-1 connectors
 
-SKU JCD-1016",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1016,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1016_j1.jpg,,,,,,,
+SKU JCD-1016",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1016,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1016_j1.jpg,,,,,,,
 Electronics,Headphones and Speakers,($30 MSRP) heyday Open Ear Wireless Sport Earbuds,"heyday open-ear wireless sport earbuds. Lets you hear around you while you work out. New in box.
 
 - Open-ear design
 - Bluetooth
 - Sport fit
 
-SKU JCD-1029",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1029,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1029_j1.jpg,,,,,,,
+SKU JCD-1029",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1029,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1029_j1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Pairable Mini Wireless Bluetooth Speaker Green Upgraded Version,"Mini pairable wireless Bluetooth speaker, green, 3W, Bluetooth 5.0. Pair two for stereo. New in box.
 
 - Bluetooth 5.0
 - Pair two for stereo
 - 3W speaker
 
-SKU JCD-1030",2,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1030,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1030_j1.jpg,,,,,,,
+SKU JCD-1030",2,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1030,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1030_j1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Waterproof Shower Speaker Bluetooth with Built-in Mic Blue LED,"Splash-proof Bluetooth shower speaker with built-in mic, blue, IPX4, LED light ring. Take calls in the shower. New in box.
 
 - IPX4 splash-proof
 - Built-in mic
 - LED light ring
 
-SKU JCD-1031",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1031,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1031_j1.jpg,,,,,,,
+SKU JCD-1031",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1031,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1031_j1.jpg,,,,,,,
 Electronics,Headphones and Speakers,WS-858 Wireless Karaoke Microphone Bluetooth Speaker Rose Gold,"WS-858 handheld wireless karaoke microphone with built-in Bluetooth speaker, rose gold. New in box.
 
 - Built-in speaker
 - Bluetooth
 - Rose gold
 
-SKU JCD-1033",2,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1033,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1033_j1.jpg,,,,,,,
+SKU JCD-1033",2,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1033,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1033_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,Aduro KeyNote Foldable Wireless Bluetooth Headphones Black Gold,"Aduro KeyNote foldable wireless Bluetooth headphones, black and gold. Hands-free mic, on-ear controls, folds flat for travel. New in box.
 
 - Bluetooth wireless
 - Built-in mic for calls
 - Foldable for travel
 
-SKU JCD-0558",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0558,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0558_j1.jpg,,,,,,,
+SKU JCD-0558",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0558,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0558_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,240W 5-Port GaN Fast Wall Charger PD QC3.0 with 3-in-1 Cables,"240W-rated GaN fast charging wall adapter with USB-C PD and QC 3.0 USB-A ports, plus 3-in-1 charging cables. Charge several devices at once. New in box.
 
 - USB-C PD + QC 3.0 ports
 - GaN fast charging
 - 3-in-1 cables included
 
-SKU JCD-0566",2,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0566,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0566_j1.jpg,,,,,,,
+SKU JCD-0566",2,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0566,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0566_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,Rachel Roy 6 ft Charging Cable for iPhone Apple 8-Pin MFi Certified,"Rachel Roy 6 ft charging and sync cable for iPhone, Made for iPhone / iPad / iPod certified. Works with iPhone 5 through 14, 8-pin iPads and AirPods. New in box.
 
 - 6 ft long
 - Apple MFi certified
 - Charge and sync
 
-SKU JCD-1245",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1245,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1245_j1.jpg,,,,,,,
+SKU JCD-1245",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1245,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1245_j1.jpg,,,,,,,
 Electronics,Tools,Crescent APEX U-GUARD Fastener Driving Kit,"Crescent APEX U-GUARD fastener driving kit in a case. Brand new.
 
-SKU JCD-0534",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0534,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0534_g1.jpg,,,,,,,
+SKU JCD-0534",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0534,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0534_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Oil Filter Cap Socket Wrench Tool,"Cap-style oil filter socket wrench for removing oil filter housings. Brand new.
 
-SKU JCD-0537",1,Buy It Now,10,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0537,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0537_g1.jpg,,,,,,,
+SKU JCD-0537",1,Buy It Now,10,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0537,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0537_g1.jpg,,,,,,,
 Electronics,Tools,Manual Tile Cutter for Ceramic and Porcelain Tile,"Manual tile cutter for straight cuts in ceramic and porcelain tile. Brand new.
 
-SKU JCD-0539",1,Buy It Now,15,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0539,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0539_g1.jpg,,,,,,,
+SKU JCD-0539",1,Buy It Now,15,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0539,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0539_g1.jpg,,,,,,,
 Electronics,Tools,Socket Extension Bar Set 4 Pieces,"Lot of 4 socket extension bars. Brand new.
 
-SKU JCD-0540",1,Buy It Now,10,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0540,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0540_g1.jpg,,,,,,,
+SKU JCD-0540",1,Buy It Now,10,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0540,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0540_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Mini Desk Fan Black Portable Personal Cooling Fan Compact,"Compact black mini desk fan for personal cooling. Brand new.
 
-SKU JCD-0685",2,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0685,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0685_g1.jpg,,,,,,,
+SKU JCD-0685",2,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0685,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0685_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,Corner LED Floor Lamp RGB Smart Ambient Light with App and Remote,"Corner LED floor lamp with app and remote control, color ambient lighting. Brand new.
 
-SKU JCD-0689",3,Buy It Now,28,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0689,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0689_g1.jpg,,,,,,,
+SKU JCD-0689",3,Buy It Now,28,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0689,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0689_g1.jpg,,,,,,,
 Beauty,Other Beauty,Ear Wax Removal Tool with Camera 1080P Ear Cleaner Otoscope,"Ear wax removal tool with a built-in camera, see what you're doing on your phone. Brand new.
 
-SKU JCD-0690",1,Buy It Now,16,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0690,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0690_g1.jpg,,,,,,,
+SKU JCD-0690",1,Buy It Now,16,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0690,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0690_g1.jpg,,,,,,,
 Beauty,Other Beauty,Rechargeable EMS Foot Massager Pad 6 Modes,"Rechargeable EMS foot massage pad with 6 modes. Brand new.
 
-SKU JCD-0691",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0691,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0691_g1.jpg,,,,,,,
+SKU JCD-0691",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0691,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0691_g1.jpg,,,,,,,
 Beauty,Other Beauty,Secret Collagen Timeless Glow Luxury Jelly Mask Set,"Secret Collagen Timeless Glow luxury jelly mask set. Brand new.
 
-SKU JCD-0692",1,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0692,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0692_g1.jpg,,,,,,,
+SKU JCD-0692",1,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0692,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0692_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,71 in Phone Tripod and Selfie Stick with Wireless Remote,"71-inch phone tripod and selfie stick in one, with remote. Brand new.
 
-SKU JCD-0693",1,Buy It Now,34,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0693,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0693_g1.jpg,,,,,,,
+SKU JCD-0693",1,Buy It Now,34,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0693,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0693_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Electrical Outlet Extender 17 to 27 in with AC Outlets USB-A USB-C,"Electrical outlet extender, reaches 17 to 27 inches. Brand new.
 
-SKU JCD-0696",1,Buy It Now,27,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0696,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0696_g1.jpg,,,,,,,
+SKU JCD-0696",1,Buy It Now,27,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0696,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0696_g1.jpg,,,,,,,
 Electronics,Tools,Cordless Electric Scissors for Fabric Cardboard and Crafts,"Cordless electric scissors for fabric, cardboard and crafts. Brand new.
 
-SKU JCD-0700",1,Buy It Now,26,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0700,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0700_g1.jpg,,,,,,,
+SKU JCD-0700",1,Buy It Now,26,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0700,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0700_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Aecooly Halo Portable Handheld Fan Rechargeable Beige,"Aecooly Halo portable handheld fan, rechargeable, beige. Brand new.
 
-SKU JCD-0704",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0704,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0704_g1.jpg,,,,,,,
+SKU JCD-0704",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0704,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0704_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,($84 MSRP) Franklin T9 Mobile Hotspot 4G LTE Wi-Fi,"Franklin T9 mobile Wi-Fi hotspot. Brand new.
 
-SKU JCD-0709",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0709,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0709_g1.jpg,,,,,,,
+SKU JCD-0709",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0709,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0709_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Expandable Travel Backpack Black,"Expandable backpack, black. Brand new.
 
-SKU JCD-0711",2,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0711,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0711_g1.jpg,,,,,,,
+SKU JCD-0711",2,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0711,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0711_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,($30 MSRP) EBL Alkaline AA Batteries 48 Pack 1.5V Long Lasting,"EBL alkaline AA batteries, 48-pack, 1.5V long-lasting. Brand new.
 
-SKU JCD-0717",3,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0717,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0717_g1.jpg,,,,,,,
+SKU JCD-0717",3,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0717,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0717_g1.jpg,,,,,,,
 Beauty,Other Beauty,($26 MSRP) Makeup by Mario Ultra Suede Cozy Lip Creme Nude Suede 3.2 ml,"Makeup by Mario Ultra Suede Cozy Lip Creme, Nude Suede, 3.2 ml. Brand new.
 
-SKU JCD-0725",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0725,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0725_g1.jpg,,,,,,,
+SKU JCD-0725",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0725,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0725_g1.jpg,,,,,,,
 Electronics,Tools,($26 MSRP) Makeup by Mario Ultra Suede Cozy Lip Creme Almost Bare 3.2 ml,"Makeup by Mario Ultra Suede Cozy Lip Creme, Almost Bare, 3.2 ml. Brand new.
 
-SKU JCD-0726",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0726,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0726_g1.jpg,,,,,,,
+SKU JCD-0726",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0726,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0726_g1.jpg,,,,,,,
 Beauty,Other Beauty,($21 MSRP) Grin Disposable Tongue Scrapers 6 Packs of 32 Count,"Grin disposable tongue scrapers, 6 packs, 32 count, individually wrapped. Brand new.
 
-SKU JCD-0730",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0730,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0730_g1.jpg,,,,,,,
+SKU JCD-0730",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0730,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0730_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,SEEWORLD P1 4G Pet GPS Tracker Real Time Location Geo Fence,"SEEWORLD P1 4G pet GPS tracker with real-time location and geo-fence. Brand new.
 
-SKU JCD-0731",1,Buy It Now,24,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0731,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0731_g1.jpg,,,,,,,
+SKU JCD-0731",1,Buy It Now,24,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0731,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0731_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,MagSafe Magnetic Wallet Works with Apple Find My 9 Cards with Stand,"MagSafe magnetic wallet that works with Apple Find My, holds 9 cards. Brand new.
 
-SKU JCD-0733",3,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0733,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0733_g1.jpg,,,,,,,
+SKU JCD-0733",3,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0733,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0733_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,2 Pack Flat Plug Power Strip 5 ft Cord 6 Outlets 3 USB Ports,"2-pack flat plug power strips with 5 ft extension cord, 6 outlets and 3 USB ports each. Brand new.
 
-SKU JCD-0735",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0735,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0735_g1.jpg,,,,,,,
+SKU JCD-0735",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0735,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0735_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Brookstone Power Play True Wireless Earbuds with Power Bank Case,"Brookstone Power Play true wireless earbuds with a power bank charging case (BSTWS35BK). Brand new.
 
-SKU JCD-0737",1,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0737,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0737_g1.jpg,,,,,,,
+SKU JCD-0737",1,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0737,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0737_g1.jpg,,,,,,,
 Beauty,Other Beauty,Wine Glasses Set of 6 Crystal Clear,"Wine glasses, set of 6. Brand new.
 
-SKU JCD-0747",1,Buy It Now,30,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0747,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0747_g1.jpg,,,,,,,
+SKU JCD-0747",1,Buy It Now,30,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0747,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0747_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,S10 Retro Handheld Game Console Controller Style,"S10 retro handheld game console. Brand new.
 
-SKU JCD-0748",2,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0748,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0748_g1.jpg,,,,,,,
+SKU JCD-0748",2,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0748,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0748_g1.jpg,,,,,,,
 Sporting Gear,Other Sporting Goods,80x100 High Power Monocular Telescope with Phone Adapter and Tripod,"80x100 high-power monocular telescope with smartphone adapter, tripod and case. Brand new.
 
-SKU JCD-0749",1,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0749,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0749_g1.jpg,,,,,,,
+SKU JCD-0749",1,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0749,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0749_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,6 Tier Over the Door Pantry Organizer Metal Hanging Rack,"6-tier over-the-door pantry organizer. Brand new.
 
-SKU JCD-0750",1,Buy It Now,24,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0750,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0750_g1.jpg,,,,,,,
+SKU JCD-0750",1,Buy It Now,24,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0750,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0750_g1.jpg,,,,,,,
 Electronics,Tools,($33 MSRP) Gillette Fusion5 Mens Razor Handle with 9 Blade Refills,"Gillette Fusion5 men's razor handle with 9 blade refills. Brand new.
 
-SKU JCD-0751",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0751,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0751_g1.jpg,,,,,,,
+SKU JCD-0751",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0751,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0751_g1.jpg,,,,,,,
 Beauty,Other Beauty,($40 MSRP) Conair Girlbomb Rechargeable Womens Shaver and Bikini Trimmer Kit,"Conair Girlbomb rechargeable women's electric shaver and bikini trimmer kit. Brand new.
 
-SKU JCD-0754",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0754,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0754_g1.jpg,,,,,,,
+SKU JCD-0754",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0754,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0754_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Queen Bamboo Memory Foam Pillow,"Queen-size bamboo memory foam pillow. Brand new.
 
-SKU JCD-0772",2,Buy It Now,22,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0772,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0772_g1.jpg,,,,,,,
+SKU JCD-0772",2,Buy It Now,22,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0772,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0772_g1.jpg,,,,,,,
 Electronics,Tools,Firming Cream 50g with Jojoba Oil Vitamin E and Honey,"50g firming cream with jojoba oil, vitamin E and honey. Brand new.
 
-SKU JCD-0777",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0777,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0777_g1.jpg,,,,,,,
+SKU JCD-0777",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0777,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0777_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Vico Wireless Gaming Mouse RGB Rechargeable,"Vico gaming mouse. Brand new.
 
-SKU JCD-0780",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0780,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0780_g1.jpg,,,,,,,
+SKU JCD-0780",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0780,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0780_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Nut Milk Maker Machine for Almond and Oat Milk,"Nut milk maker for fresh almond and oat milk at home. Brand new.
 
-SKU JCD-0781",1,Buy It Now,20,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0781,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0781_g1.jpg,,,,,,,
+SKU JCD-0781",1,Buy It Now,20,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0781,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0781_g1.jpg,,,,,,,
 Electronics,Tools,($12 MSRP) IDEAL 72B Wire Nut Connectors 100 Pack,"IDEAL 72B wire connectors, 100 pieces. Brand new.
 
-SKU JCD-0791",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0791,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0791_g1.jpg,,,,,,,
+SKU JCD-0791",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0791,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0791_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,8.5 in Colorful LCD Writing Tablet Kids Drawing Doodle Board,"8.5-inch colorful LCD writing tablet, reusable drawing and doodle board. Brand new.
 
-SKU JCD-0802",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0802,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0802_g1.jpg,,,,,,,
+SKU JCD-0802",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0802,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0802_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,S10 Retro Handheld Game Box Console,"S10 retro handheld game box. Brand new.
 
-SKU JCD-0803",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0803,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0803_g1.jpg,,,,,,,
+SKU JCD-0803",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0803,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0803_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,G5 Retro Handheld Game Box Console with TV Out,"G5 retro handheld game box. Brand new.
 
-SKU JCD-0804",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0804,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0804_g1.jpg,,,,,,,
+SKU JCD-0804",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0804,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0804_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,10 in LCD Drawing Tablet for Kids Doodle Board,"10-inch LCD drawing tablet. Brand new.
 
-SKU JCD-0811",1,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0811,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0811_g1.jpg,,,,,,,
+SKU JCD-0811",1,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0811,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0811_g1.jpg,,,,,,,
 Watches,Modern Watches,Invicta Racing Valyron 69781 Unisex Watch 41mm White,"Invicta Racing Valyron unisex watch, 41mm, white (69781). Brand new.
 
-SKU JCD-0815",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0815,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0815_g1.jpg,,,,,,,
+SKU JCD-0815",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0815,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0815_g1.jpg,,,,,,,
 Watches,Modern Watches,($129 MSRP) Invicta 1 Slot Watch Winder Black IPM546,"Invicta 1-slot watch winder, black (IPM546). Brand new.
 
-SKU JCD-0816",1,Buy It Now,26,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0816,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0816_g1.jpg,,,,,,,
+SKU JCD-0816",1,Buy It Now,26,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0816,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0816_g1.jpg,,,,,,,
 Watches,Modern Watches,($249 MSRP) Invicta Speedway 50854 Mens Watch 42mm Stainless Steel Black Dial,"Invicta Speedway men's watch, 42mm stainless steel, black dial (50854). Brand new.
 
-SKU JCD-0818",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0818,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0818_g1.jpg,,,,,,,
+SKU JCD-0818",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0818,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0818_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,($20 MSRP) onn Wired Game Controller for Nintendo Switch,"onn wired game controller. Brand new.
 
-SKU JCD-0820",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0820,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0820_g1.jpg,,,,,,,
+SKU JCD-0820",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0820,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0820_g1.jpg,,,,,,,
 Watches,Modern Watches,($99 MSRP) Activa Aero X by Invicta ACW2125-004 Digital Unisex Watch 43mm Pink,"Activa Aero X by Invicta digital unisex watch, 43.2mm, pink. Brand new.
 
-SKU JCD-0832",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0832,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0832_g1.jpg,,,,,,,
+SKU JCD-0832",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0832,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0832_g1.jpg,,,,,,,
 Watches,Modern Watches,Montres Prestige Mini Ring Watch MPW-0391 Womens 22.5mm Silver,"Montres Prestige Mini ring watch, women's, 22.5mm, silver (MPW-0391). Brand new.
 
-SKU JCD-0833",2,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0833,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0833_g1.jpg,,,,,,,
+SKU JCD-0833",2,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0833,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0833_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Invicta BBSD Mens Baseball Hat Black IG0357,"Invicta BBSD men's hat, black (IG0357). Brand new.
 
-SKU JCD-0841",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0841,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0841_g1.jpg,,,,,,,
+SKU JCD-0841",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0841,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0841_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,K235 Robot Vacuum Cleaner 3 in 1 USB Rechargeable Sweeping Robot,"K235 sweeping robot vacuum. Brand new.
 
-SKU JCD-0872",6,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0872,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0872_g1.jpg,,,,,,,
+SKU JCD-0872",6,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0872,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0872_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,($35 MSRP) INTEX Quick Fill Rechargeable Electric Air Pump,"INTEX Quick Fill rechargeable electric air pump for air mattresses, pool floats and inflatables. Brand new.
 
-SKU JCD-0885",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0885,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0885_g1.jpg,,,,,,,
+SKU JCD-0885",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0885,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0885_g1.jpg,,,,,,,
 Electronics,Tools,Electric Egg Cooker Steamer Pink,"Electric egg steamer / egg cooker, pink. Brand new.
 
-SKU JCD-0889",1,Buy It Now,22,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0889,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0889_g1.jpg,,,,,,,
+SKU JCD-0889",1,Buy It Now,22,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0889,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0889_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,($30 MSRP) heyday 10 ft Braided Charging Cable 2 Pack Blue and Red,"heyday 10 ft braided charging cables, 2-pack (blue + red). Brand new.
 
-SKU JCD-0892",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0892,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0892_g1.jpg,,,,,,,
+SKU JCD-0892",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0892,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0892_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,($35 MSRP) Tile Slim Bluetooth Tracker by Life360 Wallet Finder,"Tile Slim Bluetooth tracker by Life360, card size for your wallet. Brand new.
 
-SKU JCD-0894",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0894,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0894_g1.jpg,,,,,,,
+SKU JCD-0894",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0894,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0894_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,($17 MSRP) SanDisk Ultra Plus 32GB SDHC Memory Card,"SanDisk Ultra Plus 32GB SDHC memory card. Brand new.
 
-SKU JCD-0896",1,Buy It Now,11,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0896,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0896_g1.jpg,,,,,,,
+SKU JCD-0896",1,Buy It Now,11,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0896,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0896_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,LED Ring Light with Phone Holder and Bluetooth Remote,"Ring light with phone holder and Bluetooth remote. Brand new.
 
-SKU JCD-0899",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0899,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0899_g1.jpg,,,,,,,
+SKU JCD-0899",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0899,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0899_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,($60 MSRP) JBL Tune 520BT Wireless On-Ear Headphones Black,"JBL Tune 520BT wireless on-ear headphones, black. Brand new.
 
-SKU JCD-0901",1,Buy It Now,38,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0901,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0901_g1.jpg,,,,,,,
+SKU JCD-0901",1,Buy It Now,38,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0901,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0901_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Portable Power Bank with USB-C Cable Black,"Portable power bank with USB-C cable, black. Brand new.
 
-SKU JCD-0903",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0903,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0903_g1.jpg,,,,,,,
+SKU JCD-0903",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0903,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0903_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Solar Powered RGBW Light Up Santa Christmas Yard Stake Decoration,"Solar-powered RGBW light-up Santa decoration. Brand new.
 
-SKU JCD-0904",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0904,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0904_g1.jpg,,,,,,,
+SKU JCD-0904",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0904,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0904_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,BulbHead Forever Knife Never Needs Sharpening As Seen On TV,"BulbHead Forever Knife, as seen on TV, never needs sharpening. Brand new.
 
-SKU JCD-0905",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0905,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0905_g1.jpg,,,,,,,
+SKU JCD-0905",1,Buy It Now,13,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0905,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0905_g1.jpg,,,,,,,
 Sporting Gear,Other Sporting Goods,YEECHUN 16.5 ft Telescopic Swimming Pool Pole Aluminum,"YEECHUN 16.5 ft telescopic aluminum swimming pool pole. Brand new.
 
-SKU JCD-0906",1,Buy It Now,28,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0906,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0906_g1.jpg,,,,,,,
+SKU JCD-0906",1,Buy It Now,28,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0906,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0906_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,($70 MSRP) Keychron M6 Wireless Mouse,"Keychron M6 wireless mouse. Brand new.
 
-SKU JCD-0907",1,Buy It Now,48,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0907,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0907_g1.jpg,,,,,,,
+SKU JCD-0907",1,Buy It Now,48,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0907,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0907_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Tech Theory PillowPods Pro Wireless Earbuds,"Tech Theory PillowPods Pro wireless earbuds. Brand new.
 
-SKU JCD-0916",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0916,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0916_g1.jpg,,,,,,,
+SKU JCD-0916",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0916,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0916_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Tabletop Fly Repellent Fan Outdoor Food Protector,"Tabletop fly repellent fan. Brand new.
 
-SKU JCD-0926",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0926,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0926_g1.jpg,,,,,,,
+SKU JCD-0926",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0926,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0926_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,($30 MSRP) YETI Rambler Cocktail Shaker Lid Gold,"YETI Rambler cocktail shaker lid, gold metallic. Brand new.
 
-SKU JCD-0927",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0927,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0927_g1.jpg,,,,,,,
+SKU JCD-0927",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0927,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0927_g1.jpg,,,,,,,
 Electronics,Tools,Folding Pocket Knife Black Blade Decorated Handle,"Folding pocket knife, black blade, decorated dark handle. Brand new.
 
-SKU JCD-0937",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0937,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0937_g1.jpg,,,,,,,
+SKU JCD-0937",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0937,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0937_g1.jpg,,,,,,,
 Toys & Hobbies,Models & Kits,Inflatable Llama Rider Costume Adult Ride On Halloween,"Inflatable ride-on costume, colorful llama/pinata rider. Brand new.
 
-SKU JCD-0942",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0942,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0942_g1.jpg,,,,,,,
+SKU JCD-0942",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0942,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0942_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,True Wireless Earbuds Black Round Charging Case,"True wireless earbuds, black round case. Brand new.
 
-SKU JCD-0944",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0944,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0944_g1.jpg,,,,,,,
+SKU JCD-0944",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0944,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0944_g1.jpg,,,,,,,
 Toys & Hobbies,Models & Kits,Reobrix Technologie Red Sports Car Building Block Set,"Reobrix TECHNOLOGIE red sports car building-block set. Brand new.
 
-SKU JCD-0945",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0945,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0945_g1.jpg,,,,,,,
+SKU JCD-0945",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0945,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0945_g1.jpg,,,,,,,
 Toys & Hobbies,Models & Kits,Reobrix Technologie Lime Green Sports Car Building Block Set,"Reobrix TECHNOLOGIE lime-green sports car building-block set. Brand new.
 
-SKU JCD-0946",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0946,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0946_g1.jpg,,,,,,,
+SKU JCD-0946",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0946,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0946_g1.jpg,,,,,,,
 Sporting Gear,Other Sporting Goods,Wearable Neck Cooling Ring Collar with Display,"Wearable neck cooling collar with display. Brand new.
 
-SKU JCD-0952",3,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0952,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0952_g1.jpg,,,,,,,
+SKU JCD-0952",3,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0952,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0952_g1.jpg,,,,,,,
 Electronics,Tools,Wood Grain Ultrasonic Essential Oil Diffuser Humidifier,"Wood-grain ultrasonic essential oil diffuser / humidifier. Brand new.
 
-SKU JCD-0957",1,Buy It Now,26,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0957,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0957_g1.jpg,,,,,,,
+SKU JCD-0957",1,Buy It Now,26,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0957,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0957_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Candie's Wireless Earbuds Blue Charging Case,"Candie's wireless earbuds, blue round charging case, gift box. Brand new.
 
-SKU JCD-0972",1,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0972,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0972_g1.jpg,,,,,,,
+SKU JCD-0972",1,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0972,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0972_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Candie's True Wireless Earbuds White Purple Box,"Candie's true wireless earbuds, white buds, purple box. Brand new.
 
-SKU JCD-0973",1,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0973,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0973_g1.jpg,,,,,,,
+SKU JCD-0973",1,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0973,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0973_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Zoo York Portable Power Bank 2 Pack White and Black,"Zoo York portable power banks, 1 white + 1 black. Brand new.
 
-SKU JCD-0978",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0978,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0978_g1.jpg,,,,,,,
+SKU JCD-0978",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0978,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0978_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Wireless Charging Stand White Phone Charger,"White wireless charging phone stand. Brand new.
 
-SKU JCD-0980",3,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0980,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0980_g1.jpg,,,,,,,
+SKU JCD-0980",3,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0980,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0980_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Clear Magnetic Phone Case for MagSafe,"Clear MagSafe-style phone case, boxed. Brand new.
 
-SKU JCD-0984",2,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0984,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0984_g1.jpg,,,,,,,
+SKU JCD-0984",2,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0984,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0984_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,($100 MSRP) Aduro Amplify Chill LED Ice Bucket Bluetooth Speaker,"Aduro Amplify Chill LED ice bucket speaker. Brand new.
 
-SKU JCD-0985",2,Buy It Now,30,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0985,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0985_g1.jpg,,,,,,,
+SKU JCD-0985",2,Buy It Now,30,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0985,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0985_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Tech Theory 10000mAh Power Bank with 4 ft Cable,"Tech Theory 10,000mAh power bank with 4 ft charging cable. Brand new.
 
-SKU JCD-0991",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0991,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0991_g1.jpg,,,,,,,
+SKU JCD-0991",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0991,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0991_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,1080p Webcam with Microphone and Privacy Cover,"Video webcam with built-in mic and privacy cover. Brand new.
 
-SKU JCD-0995",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0995,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0995_g1.jpg,,,,,,,
+SKU JCD-0995",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0995,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0995_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Stylus Pencil for iPad Pink Rechargeable,"Stylus pencil for iPad, pink (K8). Brand new.
 
-SKU JCD-0997",1,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0997,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0997_g1.jpg,,,,,,,
+SKU JCD-0997",1,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0997,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0997_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,U18 Wireless Sport Earbuds with Ear Hooks,"U18 wireless sport earbuds with ear hooks. Brand new.
 
-SKU JCD-0998",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0998,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0998_g1.jpg,,,,,,,
+SKU JCD-0998",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0998,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0998_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Wireless Meat Thermometer Grill Probe Kit,"Meat thermometer / grill probe kit. Brand new.
 
-SKU JCD-1005",1,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1005,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1005_g1.jpg,,,,,,,
+SKU JCD-1005",1,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1005,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1005_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Samsung Galaxy S24 Phone Case,"Samsung Galaxy S24 phone case. Brand new.
 
-SKU JCD-1017",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1017,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1017_g1.jpg,,,,,,,
+SKU JCD-1017",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1017,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1017_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,3 in 1 Wireless Charging Station for Phone Watch and Earbuds,"3-in-1 charger. Brand new.
 
-SKU JCD-1020",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1020,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1020_g1.jpg,,,,,,,
+SKU JCD-1020",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1020,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1020_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,3 in Mini Handheld Retro Game Console with TV Out,"3-inch large-screen mini handheld retro game console with TV out. Brand new.
 
-SKU JCD-1036",7,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1036,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1036_g1.jpg,,,,,,,
+SKU JCD-1036",7,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1036,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1036_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Rechargeable Electric Air Duster Compressed Air Computer Cleaner,"Rechargeable electric air duster and compressed-air computer cleaner. Brand new.
 
-SKU JCD-1096",3,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1096,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1096_g1.jpg,,,,,,,
+SKU JCD-1096",3,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1096,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1096_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Mini Bluetooth Thermal Printer for Labels Notes Photos Inkless,"Mini Bluetooth thermal printer for labels, notes and photos, inkless. Brand new.
 
-SKU JCD-1097",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1097,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1097_g1.jpg,,,,,,,
+SKU JCD-1097",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1097,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1097_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,($25 MSRP) STANLEY Everyday Camp Cup 12 oz with Drink Through Lid,"STANLEY Everyday Camp Cup, 12 oz, drink-through lid. Brand new.
 
-SKU JCD-1114",2,Buy It Now,24,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1114,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1114_g1.jpg,,,,,,,
+SKU JCD-1114",2,Buy It Now,24,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1114,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1114_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,Smartphone Video Creator Kit LED Light Mic and Tripod,"Smartphone video creator kit with LED light, microphone and tripod stand. Brand new.
 
-SKU JCD-1115",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1115,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1115_g1.jpg,,,,,,,
+SKU JCD-1115",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1115,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1115_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,($70 MSRP) Aduro Surge Glow 7 Outlet Charging Station with USB Lavender,"Surge Glow multi charging station, 7 outlets plus USB ports, lavender. Brand new.
 
-SKU JCD-1116",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1116,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1116_g1.jpg,,,,,,,
+SKU JCD-1116",1,Buy It Now,29,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1116,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1116_g1.jpg,,,,,,,
 Sporting Gear,Other Sporting Goods,Resistance Bands Set with Handles 5 Levels,"Resistance bands with handles, 5 levels. Brand new.
 
-SKU JCD-1117",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1117,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1117_g1.jpg,,,,,,,
+SKU JCD-1117",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1117,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1117_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,Wireless Bluetooth Game Controller for Switch Android iOS PC,"Wireless Bluetooth gaming controller for Switch, Android, iOS and PC. Brand new.
 
-SKU JCD-1118",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1118,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1118_g1.jpg,,,,,,,
+SKU JCD-1118",1,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1118,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1118_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,Ultra Bright Tactical LED Headlamp Rechargeable,"Universal ultra-bright tactical headlamp. Brand new.
 
-SKU JCD-1121",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1121,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1121_g1.jpg,,,,,,,
+SKU JCD-1121",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1121,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1121_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,Pokemon Pressti Surprise Bag Sealed Trading Cards,"Pokemon Pressti surprise bag, sealed trading cards ($16.99 MSRP). Sealed.
 
-SKU JCD-1128",3,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1128,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1128_g1.jpg,,,,,,,
+SKU JCD-1128",3,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1128,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1128_g1.jpg,,,,,,,
 Beauty,Other Beauty,4 in 1 Red Light Therapy Wand for Face and Neck,"4-in-1 red light therapy wand for face and neck with microcurrent. Brand new.
 
-SKU JCD-1130",1,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1130,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1130_g1.jpg,,,,,,,
+SKU JCD-1130",1,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1130,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1130_g1.jpg,,,,,,,
 Sporting Gear,Other Sporting Goods,Indoor Basketball Hoop with LED Lights and Electronic Scoreboard,"Indoor basketball hoop with LED lights, electronic scoreboard and remote. Brand new.
 
-SKU JCD-1132",3,Buy It Now,25,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-1132,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1132_g1.jpg,,,,,,,
+SKU JCD-1132",3,Buy It Now,25,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-1132,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1132_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,iWALK MagSafe Power Bank with Kickstand and Watch Charger,"iWALK MagSafe power bank with kickstand and Apple Watch charger ($50 retail). Brand new.
 
-SKU JCD-1133",2,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1133,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1133_g1.jpg,,,,,,,
+SKU JCD-1133",2,Buy It Now,28,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1133,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1133_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Magnetic Car Phone Mount Dashboard Windshield,"Magnetic car phone mount for dashboard or windshield, suction cup. Brand new.
 
-SKU JCD-1134",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1134,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1134_g1.jpg,,,,,,,
+SKU JCD-1134",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1134,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1134_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,eShine Rechargeable Hand Wave LED Light Bar Under Cabinet,"eShine rechargeable LED light bar with hand-wave (touchless) on/off and dimming. Magnetic mount for under cabinets, closets and shelves. USB rechargeable, compact size.
 
-SKU JCD-1160",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1160,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1160_g1.jpg,,,,,,,
+SKU JCD-1160",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1160,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1160_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,($40 MSRP) BOWER Wireless Lavalier Clip On Microphone USB-C,"BOWER wireless lavalier clip-on microphone with plug-and-play USB-C receiver. 360 degree pickup, rechargeable transmitter. For phones, tablets and computers.
 
-SKU JCD-1164",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1164,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1164_g1.jpg,,,,,,,
+SKU JCD-1164",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1164,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1164_g1.jpg,,,,,,,
 Car Parts,,GICLE Portable Cordless Tire Inflator Air Pump Digital Display,"GICLE cordless portable tire inflator with digital pressure display and auto shut-off. Inflates car, bike and motorcycle tires plus balls. Rechargeable, compact.
 
-SKU JCD-1165",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1165,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1165_g1.jpg,,,,,,,
+SKU JCD-1165",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1165,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1165_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,Pan Tilt WiFi Indoor Security Camera White,"White pan/tilt WiFi indoor security camera with night vision and two-way audio. App control and motion alerts. Great as a baby, pet or nanny cam.
 
-SKU JCD-1166",1,Buy It Now,26,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1166,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1166_g1.jpg,,,,,,,
+SKU JCD-1166",1,Buy It Now,26,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1166,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1166_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,($20 MSRP) Deal Worthy 100W USB-C Laptop Charger with USB-A Port,"Deal Worthy up to 100W laptop charger with built-in USB-C cable and an extra USB-A port. 8 ft total reach. Brand new.
 
-SKU JCD-1180",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1180,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1180_g1.jpg,,,,,,,
+SKU JCD-1180",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1180,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1180_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,VEGCOO Wireless Gaming Mouse RGB,"VEGCOO wireless gaming mouse with RGB lights. In box. Brand new.
 
-SKU JCD-1182",1,Buy It Now,32,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1182,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1182_g1.jpg,,,,,,,
+SKU JCD-1182",1,Buy It Now,32,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1182,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1182_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,USB-C Rechargeable Stylus Pen for iPad,"USB-C rechargeable stylus pens for iPad, universal fit. Brand new.
 
-SKU JCD-1183",2,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1183,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1183_g1.jpg,,,,,,,
+SKU JCD-1183",2,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1183,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1183_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Funsnap Magnetic Stylus Pen for iPad Air Pro mini,"Funsnap magnetic stylus pen for iPad (Air 4th gen, iPad Pro 11 and 12.9 inch), USB-C charging, palm rejection. Factory sealed. Brand new.
 
-SKU JCD-1184",1,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1184,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1184_g1.jpg,,,,,,,
+SKU JCD-1184",1,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1184,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1184_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Shcngqio 1080P Webcam with Microphone and Privacy Cover,"Shcngqio 1080P USB webcam (PTWC29) with built-in microphone, privacy cover, auto focus, plug and play. Black. Brand new.
 
-SKU JCD-1185",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1185,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1185_g1.jpg,,,,,,,
+SKU JCD-1185",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1185,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1185_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,Handheld Retro Game Console Blue,"Brand new handheld retro game console, blue.
 
-SKU JCD-1208",1,Buy It Now,11,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1208,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1208_g1.jpg,,,,,,,
+SKU JCD-1208",1,Buy It Now,11,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1208,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1208_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,2 in 1 Cordless Handheld Vacuum Small,"Brand new 2-in-1 small handheld vacuum.
 
-SKU JCD-1211",3,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1211,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1211_g1.jpg,,,,,,,
+SKU JCD-1211",3,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1211,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1211_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Smart Water Bottle with LED Temperature Display Insulated,"Brand new smart insulated water bottle with LED temperature display.
 
-SKU JCD-1212",4,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1212,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1212_g1.jpg,,,,,,,
+SKU JCD-1212",4,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1212,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1212_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Wireless Earbuds with Charging Case Bluetooth,"Brand new wireless earbuds with charging case.
 
-SKU JCD-1213",3,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1213,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1213_g1.jpg,,,,,,,
+SKU JCD-1213",3,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1213,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1213_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Car Phone Holder Mount Air Vent,"Brand new car phone holder mount.
 
-SKU JCD-1215",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1215,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1215_g1.jpg,,,,,,,
+SKU JCD-1215",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1215,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1215_g1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Wireless Bluetooth Karaoke Microphone Speaker Rose Gold,"Brand new wireless Bluetooth karaoke microphone with speaker, rose gold.
 
-SKU JCD-1216",2,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1216,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1216_g1.jpg,,,,,,,
+SKU JCD-1216",2,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1216,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1216_g1.jpg,,,,,,,
 Beauty,Other Beauty,Cordless Hair Clipper Trimmer Gold,"Brand new cordless hair trimmer.
 
-SKU JCD-1218",3,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1218,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1218_g1.jpg,,,,,,,
+SKU JCD-1218",3,Buy It Now,21,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1218,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1218_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,Handheld Garment Steamer Teal,"Brand new handheld garment steamer, teal.
 
-SKU JCD-1222",2,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1222,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1222_g1.jpg,,,,,,,
+SKU JCD-1222",2,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1222,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1222_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Self Stirring Magnetic Coffee Mug Rechargeable,"Brand new multi-functional magnetized self-stirring cup.
 
-SKU JCD-1223",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1223,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1223_g1.jpg,,,,,,,
+SKU JCD-1223",1,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1223,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1223_g1.jpg,,,,,,,
 Electronics,Tools,9 in 1 Cordless Electric Spin Scrubber Cleaning Brush,"Brand new 9-in-1 cordless electric spin scrubber with brush heads.
 
-SKU JCD-1224",2,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1224,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1224_g1.jpg,,,,,,,
+SKU JCD-1224",2,Buy It Now,18,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1224,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1224_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Air Essence Waterless Diffuser Gray,"Brand new Air Essence diffuser, gray.
 
-SKU JCD-1225",2,Buy It Now,24,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1225,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1225_g1.jpg,,,,,,,
+SKU JCD-1225",2,Buy It Now,24,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1225,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1225_g1.jpg,,,,,,,
 Beauty,Other Beauty,Table Lamp LED Makeup Mirror Pink with Organizer Tray 3 Light Colors,"Pink tabletop LED makeup mirror with built-in lamp and organizer tray for lipstick and perfume. 3 light colors with stepless dimming. Brand new in box.
 
 - LED mirror + lamp
 - 3 light colors, dimmable
 - Organizer tray base
 
-SKU JCD-0935",1,Buy It Now,40,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0935,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0935_j1.jpg,,,,,,,
+SKU JCD-0935",1,Buy It Now,40,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0935,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0935_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,AsiaHorse 140mm ARGB PWM Computer Case Fan Dual Layer Hydraulic Bearing,"AsiaHorse 140mm ARGB PWM computer case fan, dual-layer design with hydraulic bearing. Brand new.
 
 - 140mm ARGB
 - PWM speed control
 - Hydraulic bearing
 
-SKU JCD-0724",1,Buy It Now,39,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0724,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0724_s1.jpg,,,,,,,
+SKU JCD-0724",1,Buy It Now,39,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0724,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0724_s1.jpg,,,,,,,
 Sporting Gear,Other Sporting Goods,12x42 Outdoor Binoculars for Adults Hiking Birding Hunting,"12x42 outdoor binoculars for hiking, birding, hunting and games. Binoculars are new; the retail box has damage.
 
 - 12x magnification
 - 42mm lenses
 - Box damaged, binoculars new
 
-SKU JCD-0668",1,Buy It Now,34,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0668,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0668_g1.jpg,,,,,,,
+SKU JCD-0668",1,Buy It Now,34,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0668,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0668_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Boombah Camo Baseball Batting Helmet Used,"Used Boombah camouflage baseball batting helmet. Shows scuffs, dirt and stickers from use. Please see photos.
 
 - Boombah camo
 - Used, see photos
 
-SKU JCD-0482",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,JCD-0482,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0482_e1.jpg,,,,,,,
+SKU JCD-0482",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,,JCD-0482,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0482_e1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,White Baseball Batting Helmet Used,"Used white baseball batting helmet. Shows dirt, scuffs and wear from use. Please see photos.
 
 - White helmet
 - Used, see photos
 
-SKU JCD-0483",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,JCD-0483,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0483_e1.jpg,,,,,,,
+SKU JCD-0483",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,,JCD-0483,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0483_e1.jpg,,,,,,,
 Electronics,Cameras & Photography,Video Making Kit Microphone LED Light Mini Tripod plus 10 in Ring Light,"Video creator bundle: shotgun microphone, LED fill light, phone holder and mini tripod, plus a 10 inch ring fill light with phone clip. Brand new.
 
 - Mic + LED light + tripod
 - 10 inch ring light
 - Great for TikTok and YouTube
 
-SKU JCD-1154",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1154,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1154_j1.jpg,,,,,,,
+SKU JCD-1154",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1154,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1154_j1.jpg,,,,,,,
 Beauty,Other Beauty,SOUGA Round DC Baitcaster Fishing Reel 7.2:1 Gear Ratio Black,"SOUGA round baitcasting reel with DC braking system, 7.2:1 gear ratio, black. Brand new.
 
 - 7.2:1 gear ratio
 - DC braking system
 - Round profile
 
-SKU JCD-0720",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0720,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0720_s1.jpg,,,,,,,
+SKU JCD-0720",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0720,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0720_s1.jpg,,,,,,,
 Beauty,Other Beauty,($26 MSRP) Jones Road The Brow Gel Ash Blonde 5.6 g,"Jones Road The Brow Gel in Ash Blonde, 5.6 g. Brand new.
 
 - Ash Blonde
 - 5.6 g
 - Brand new
 
-SKU JCD-0676",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0676,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0676_g1.jpg,,,,,,,
+SKU JCD-0676",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0676,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0676_g1.jpg,,,,,,,
 Sporting Gear,Other Sporting Goods,($35 MSRP) TUG Retractable Dog Leash 16 ft Medium Red 360 Tangle Free,"TUG original retractable dog leash, 16 ft, medium, red. 360-degree tangle-free. Brand new.
 
 - 16 ft
 - Medium dogs
 - 360 tangle-free
 
-SKU JCD-0721",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0721,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0721_s1.jpg,,,,,,,
+SKU JCD-0721",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0721,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0721_s1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Smart Car and Home Aroma Diffuser with Scents Included,"Smart car or home aroma diffuser with scents included. Brand new.
 
 - Car or home
 - Scents included
 
-SKU JCD-0755",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0755,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0755_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0755_s2.jpg,,,,,,
+SKU JCD-0755",1,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0755,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0755_s1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0755_s2.jpg,,,,,,
 Electronics,Everyday Electronics,Lamicall Bike Motorcycle Phone Holder Mount One Hand Operation,"Lamicall bike and motorcycle phone holder. One-hand operation, locks phone in place. Brand new.
 
 - Bike and motorcycle
 - One-hand lock
 - Fits most phones
 
-SKU JCD-0722",2,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0722,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0722_s1.jpg,,,,,,,
+SKU JCD-0722",2,Buy It Now,23,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0722,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0722_s1.jpg,,,,,,,
 Electronics,Headphones and Speakers,S1 Smart Glasses Bluetooth Audio Sunglasses Open Ear,"S1 smart glasses with built-in Bluetooth audio: listen to music and take calls hands-free. Brand new.
 
 - Bluetooth audio
 - Hands-free calls
 
-SKU JCD-0131",3,Buy It Now,22,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0131,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0131_s1.jpg,,,,,,,
+SKU JCD-0131",3,Buy It Now,22,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0131,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0131_s1.jpg,,,,,,,
 Toys & Hobbies,Models & Kits,E.T. The Extra-Terrestrial Plush Toy,"E.T. The Extra-Terrestrial plush toy. Brand new.
 
 - Classic E.T.
 - Soft plush
 
-SKU JCD-0314",1,Buy It Now,22,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0314,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0314_g1.jpg,,,,,,,
+SKU JCD-0314",1,Buy It Now,22,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0314,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0314_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,($30 MSRP) AULA Wind Gaming Mouse RGB Lightweight,"AULA Wind series gaming mouse with RGB lighting. Brand new in box.
 
 - RGB lighting
 - Lightweight gaming mouse
 
-SKU JCD-0134",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0134,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0134_g1.jpg,,,,,,,
+SKU JCD-0134",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0134,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0134_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Lamicall Phone Tripod with Wireless Remote Flexible Aluminum Legs,"Lamicall flexible phone tripod with wireless remote and 8-strand aluminum core legs. Brand new.
 
 - Wireless remote
 - Flexible legs
 - Fits most phones
 
-SKU JCD-0723",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0723,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0723_s1.jpg,,,,,,,
+SKU JCD-0723",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0723,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0723_s1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Wired USB-C Phone Microphone Clip On Lavalier,"Wired USB-C clip-on microphone for phones. Plug in and record clearer audio for videos and calls. Brand new.
 
 - USB-C plug
 - Clip-on mic
 
-SKU JCD-1024",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1024,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1024_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1024_j2.jpg,,,,,,
+SKU JCD-1024",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1024,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1024_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1024_j2.jpg,,,,,,
 Electronics,Everyday Electronics,($100 MSRP) MagSafe Magnetic Wireless Power Bank 10000mAh with Fold Out Stand,"Magnetic wireless power bank, 10,000mAh, with fold-out stand. Snaps onto MagSafe iPhones. Brand new.
 
 - 10,000mAh
 - Magnetic wireless
 - Fold-out stand
 
-SKU JCD-0669",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0669,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0669_s1.jpg,,,,,,,
+SKU JCD-0669",1,Buy It Now,19,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0669,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0669_s1.jpg,,,,,,,
 Electronics,Everyday Electronics,Metapen Stylus Pen for iPad with Palm Rejection,"Metapen stylus pen for iPad with palm rejection and tilt. Brand new.
 
 - Palm rejection
 - Rechargeable
 - For iPad
 
-SKU JCD-0307",2,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0307,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0307_g1.jpg,,,,,,,
+SKU JCD-0307",2,Buy It Now,17,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0307,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0307_g1.jpg,,,,,,,
 Electronics,Tools,Milwaukee 16 ft Magnetic Tape Measure,"Milwaukee 16 ft magnetic tape measure. Brand new.
 
 - 16 ft blade
 - Magnetic hook
 
-SKU JCD-0526",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0526,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0526_g1.jpg,,,,,,,
+SKU JCD-0526",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0526,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0526_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Galvanized Metal Ice Bucket with Wood Handles Beverage Tub,"Galvanized metal ice and beverage bucket with wooden handles. Great for parties. Brand new.
 
 - Galvanized metal
 - Wood handles
 
-SKU JCD-0650",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0650,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0650_g1.jpg,,,,,,,
+SKU JCD-0650",1,Buy It Now,14,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0650,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0650_g1.jpg,,,,,,,
 Beauty,Other Beauty,Tri Fold LED Makeup Mirror 2X 3X Magnification Touch Dimmable White,"Tri-fold LED makeup mirror with 2X and 3X magnifying panels, touch dimmable light, white. Brand new.
 
 - 2X/3X magnification
 - Touch dimmable LED
 - Folds for travel
 
-SKU JCD-1110",2,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1110,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1110_s1.jpg,,,,,,,
+SKU JCD-1110",2,Buy It Now,12,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1110,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1110_s1.jpg,,,,,,,
 Electronics,Tools,Tactical Flashlight Multi Tool Seat Belt Cutter Glass Breaker,"Multi-tool tactical flashlight with seat-belt cutter and glass breaker. Keep it in the car for emergencies. Brand new.
 
 - Bright LED
 - Seat-belt cutter
 - Glass breaker
 
-SKU JCD-0982",1,Buy It Now,11,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0982,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0982_j1.jpg,,,,,,,
+SKU JCD-0982",1,Buy It Now,11,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0982,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0982_j1.jpg,,,,,,,
 Electronics,Tools,Hot Glue Gun,"Hot glue gun for crafts and repairs. Brand new.
 
 - Hot glue gun
 - Crafts and repairs
 
-SKU JCD-0528",1,Buy It Now,10,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0528,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0528_g1.jpg,,,,,,,
+SKU JCD-0528",1,Buy It Now,10,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0528,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0528_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,USB-C to DisplayPort Cable for Switch 4K 100W PD,"USB-C to DisplayPort cable for Nintendo Switch and USB-C devices, 4K output with 100W PD charging. Brand new.
 
 - 4K display
 - 100W PD
 - USB-C to DP
 
-SKU JCD-0265",1,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0265,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0265_j1.jpg,,,,,,,
+SKU JCD-0265",1,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0265,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0265_j1.jpg,,,,,,,
 Electronics,Headphones and Speakers,Saeapu Portable Karaoke Speaker with Wired Microphone,"Saeapu portable karaoke speaker with wired microphone. Used, see photos.
 
 - Karaoke speaker
 - Wired mic included
 - Used
 
-SKU JCD-0350",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,JCD-0350,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0350_j1.jpg,,,,,,,
+SKU JCD-0350",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Used and fully functioning,,JCD-0350,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0350_j1.jpg,,,,,,,
 Electronics,Everyday Electronics,($15 MSRP) onn Dual Layer Magnetic Case for Samsung Galaxy S26 Lavender,"onn dual-layer magnetic phone case for Samsung Galaxy S26, lavender. Brand new.
 
 - Galaxy S26
 - Magnetic
 - Dual-layer
 
-SKU JCD-0584",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0584,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0584_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0584_j2.jpg,,,,,,
+SKU JCD-0584",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0584,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0584_j1.jpg,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0584_j2.jpg,,,,,,
 Home & Garden,Other Home & Garden,($35 MSRP) YETI Rambler 20 oz Tumbler Stainless Steel Silver with Black Screw-To,"YETI Rambler 20 oz tumbler, stainless steel (silver) with a black screw-top lid. Double-wall vacuum insulated, keeps drinks cold or hot, dishwasher safe. Brand new. 3 available.
 
 - 20 oz
 - Stainless steel, silver
 - Black screw-top lid
 
-SKU JCD-0940",3,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0940,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0940_g1.jpg,,,,,,,
+SKU JCD-0940",3,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0940,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0940_g1.jpg,,,,,,,
 Electronics,Tools,Bosch Expert Vehicle Rescue Reciprocating Saw Blade,"Bosch Expert Vehicle Rescue reciprocating saw blade for cutting metal and demolition work. Brand new.
 
-SKU JCD-0524",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0524,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0524_g1.jpg,,,,,,,
+SKU JCD-0524",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0524,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0524_g1.jpg,,,,,,,
 Sporting Gear,Other Sporting Goods,Boxing Reflex Trainer Music Wall Target with Gloves,"Boxing reflex trainer with gloves, improves speed and reaction time. Brand new.
 
-SKU JCD-0698",1,Buy It Now,25,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-0698,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0698_g1.jpg,,,,,,,
+SKU JCD-0698",1,Buy It Now,25,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-0698,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0698_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,8 Pack RGB Solar Disk Lights Color Changing Waterproof Pathway Lights,"8-pack RGB color-changing solar disk lights, waterproof, for garden and yard. Brand new.
 
-SKU JCD-0707",2,Buy It Now,40,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0707,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0707_g1.jpg,,,,,,,
+SKU JCD-0707",2,Buy It Now,40,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0707,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0707_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Rechargeable Mosquito Repeller Portable,"Portable rechargeable mosquito repeller. Brand new.
 
-SKU JCD-0718",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0718,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0718_g1.jpg,,,,,,,
+SKU JCD-0718",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0718,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0718_g1.jpg,,,,,,,
 Video Games,Consoles & Accessories,($70 MSRP) NBA 2K26 PlayStation 5 PS5,"NBA 2K26 for PlayStation 5. Brand new.
 
-SKU JCD-0743",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0743,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0743_g1.jpg,,,,,,,
+SKU JCD-0743",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0743,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0743_g1.jpg,,,,,,,
 Watches,Modern Watches,Invicta 8 Slot Dive Impact Watch Case Black DC8BLK,"Invicta 8-slot Dive Impact watch case, black (DC8BLK). Brand new.
 
-SKU JCD-0822",1,Buy It Now,35,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0822,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0822_g1.jpg,,,,,,,
+SKU JCD-0822",1,Buy It Now,35,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0822,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0822_g1.jpg,,,,,,,
 Toys & Hobbies,Models & Kits,Moon Ball Light Up Bouncy Ball,"Moon ball (ACT-MOONLED-001). Brand new.
 
-SKU JCD-0823",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0823,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0823_g1.jpg,,,,,,,
+SKU JCD-0823",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0823,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0823_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Sharpie Glam Pop Permanent Markers Multi Pack,"Sharpie Glam Pop permanent markers, multi-pack. Brand new.
 
-SKU JCD-0891",1,Buy It Now,35,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0891,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0891_g1.jpg,,,,,,,
+SKU JCD-0891",1,Buy It Now,35,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0891,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0891_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Baseus Retractable USB-C Charging Cable,"Baseus charging cable. Brand new.
 
-SKU JCD-0929",1,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0929,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0929_g1.jpg,,,,,,,
+SKU JCD-0929",1,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0929,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0929_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,Black Blackout Curtain Panels with Grommets Pair,"Black blackout curtain panels with grommets, pair. Brand new.
 
-SKU JCD-0948",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-0948,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0948_g1.jpg,,,,,,,
+SKU JCD-0948",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-0948,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-0948_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,Govee RGBIC LED Strip Light Bluetooth App Control,"Govee RGBIC LED strip light, Bluetooth app control. Brand new.
 
-SKU JCD-1003",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1003,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1003_g1.jpg,,,,,,,
+SKU JCD-1003",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1003,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1003_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,20000mAh Solar Power Bank with Flashlight,"20,000mAh solar power bank. Brand new.
 
-SKU JCD-1087",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1087,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1087_g1.jpg,,,,,,,
+SKU JCD-1087",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1087,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1087_g1.jpg,,,,,,,
 Electronics,Cameras & Photography,Ultra Thin Card Tag Locator Wallet Tracker,"Ultra-thin card-style tag locator, fits in your wallet. Brand new.
 
-SKU JCD-1090",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1090,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1090_g1.jpg,,,,,,,
+SKU JCD-1090",1,Buy It Now,20,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1090,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1090_g1.jpg,,,,,,,
 Beauty,Other Beauty,3 in 1 Mens Grooming Kit Electric Shaver Trimmer,"3-in-1 men's professional grooming shaver. Brand new.
 
-SKU JCD-1102",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1102,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1102_g1.jpg,,,,,,,
+SKU JCD-1102",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1102,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1102_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,4 Pack Silicone Fast Charging Data Cables,"4-pack silicone fast charging data cables. Brand new.
 
-SKU JCD-1108",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1108,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1108_g1.jpg,,,,,,,
+SKU JCD-1108",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1108,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1108_g1.jpg,,,,,,,
 Home & Garden,Other Home & Garden,800W Centrifugal Juicer Machine Stainless Steel,"800W centrifugal juice extractor, stainless steel. Brand new.
 
-SKU JCD-1127",1,Buy It Now,30,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-1127,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1127_g1.jpg,,,,,,,
+SKU JCD-1127",1,Buy It Now,30,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-1127,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1127_g1.jpg,,,,,,,
 Beauty,Other Beauty,LED Makeup Mirror Travel Cosmetic Case Pink,"LED makeup mirror travel cosmetic case, handheld, pink. Brand new.
 
-SKU JCD-1131",4,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1131,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1131_g1.jpg,,,,,,,
+SKU JCD-1131",4,Buy It Now,30,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1131,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1131_g1.jpg,,,,,,,
 Beauty,Other Beauty,UFORU Makeup Organizer Caddy with Drawers,"UFORU makeup caddy: a countertop makeup organizer with drawers to keep brushes, palettes and skincare tidy.
 
-SKU JCD-1143",1,Buy It Now,35,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,JCD-1143,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1143_g1.jpg,,,,,,,
+SKU JCD-1143",1,Buy It Now,35,"Medium - 8 lb each, max 2 per box",TRUE,Not Hazmat,Brand New,,JCD-1143,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1143_g1.jpg,,,,,,,
 Beauty,Other Beauty,Mint Vanity Makeup Train Case with Handle,"Mint faux-leather vanity makeup train case with top carry handle and gold hardware. Zip-around lid, roomy compartment for brushes, palettes and skincare. Great for travel.
 
-SKU JCD-1161",1,Buy It Now,60,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1161,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1161_g1.jpg,,,,,,,
+SKU JCD-1161",1,Buy It Now,60,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1161,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1161_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Active Stylus Pen for Tablets Rechargeable,"Active stylus pen for tablets with fine tip for drawing, note-taking and precise tapping. Rechargeable.
 
-SKU JCD-1167",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1167,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1167_g1.jpg,,,,,,,
+SKU JCD-1167",1,Buy It Now,25,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1167,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1167_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,MoKo Case for iPad 11th Gen A16 and 10th Gen 10.9 in Navy Blue,"MoKo slim tri-fold smart case for iPad A16 11th generation (2025) and iPad 10th generation (2022), 11 / 10.9 inch. Navy blue. Sealed in bag. Brand new.
 
-SKU JCD-1179",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1179,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1179_g1.jpg,,,,,,,
+SKU JCD-1179",1,Buy It Now,15,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1179,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1179_g1.jpg,,,,,,,
 Electronics,Everyday Electronics,Mini Bluetooth Instant Printer Inkless Photo Label Printer,"Mini Bluetooth thermal printer — inkless printing for photos, labels, notes and sketches from your phone. In box. Brand new.
 
-SKU JCD-1186",1,Buy It Now,45,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,JCD-1186,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1186_g1.jpg,,,,,,,
+SKU JCD-1186",1,Buy It Now,45,"Small - 1.5 lb each, max 3 per box",TRUE,Not Hazmat,Brand New,,JCD-1186,https://raw.githubusercontent.com/Jccrazydeals/jccrazydeals-photos/main/photos/JCD-1186_g1.jpg,,,,,,,
